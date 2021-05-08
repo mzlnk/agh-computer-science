@@ -1,0 +1,3998 @@
+{
+  "producerResults": {
+    "1": {
+      "allTime": 345365,
+      "attempts": 560
+    },
+    "2": {
+      "allTime": 356006,
+      "attempts": 568
+    },
+    "3": {
+      "allTime": 291477,
+      "attempts": 618
+    },
+    "4": {
+      "allTime": 448496,
+      "attempts": 541
+    },
+    "5": {
+      "allTime": 2188735,
+      "attempts": 576
+    },
+    "6": {
+      "allTime": 533049,
+      "attempts": 596
+    },
+    "7": {
+      "allTime": 628973,
+      "attempts": 599
+    },
+    "8": {
+      "allTime": 462065,
+      "attempts": 573
+    },
+    "9": {
+      "allTime": 803602,
+      "attempts": 607
+    },
+    "10": {
+      "allTime": 637365,
+      "attempts": 546
+    },
+    "11": {
+      "allTime": 1112619,
+      "attempts": 584
+    },
+    "12": {
+      "allTime": 1359219,
+      "attempts": 566
+    },
+    "13": {
+      "allTime": 1026446,
+      "attempts": 579
+    },
+    "14": {
+      "allTime": 2447381,
+      "attempts": 595
+    },
+    "15": {
+      "allTime": 1377332,
+      "attempts": 555
+    },
+    "16": {
+      "allTime": 1124510,
+      "attempts": 571
+    },
+    "17": {
+      "allTime": 1776658,
+      "attempts": 562
+    },
+    "18": {
+      "allTime": 1685282,
+      "attempts": 590
+    },
+    "19": {
+      "allTime": 1324424,
+      "attempts": 595
+    },
+    "20": {
+      "allTime": 2700495,
+      "attempts": 545
+    },
+    "21": {
+      "allTime": 1625713,
+      "attempts": 560
+    },
+    "22": {
+      "allTime": 1721291,
+      "attempts": 618
+    },
+    "23": {
+      "allTime": 1929626,
+      "attempts": 579
+    },
+    "24": {
+      "allTime": 1614957,
+      "attempts": 561
+    },
+    "25": {
+      "allTime": 4691174,
+      "attempts": 560
+    },
+    "26": {
+      "allTime": 2682522,
+      "attempts": 596
+    },
+    "27": {
+      "allTime": 1896472,
+      "attempts": 591
+    },
+    "28": {
+      "allTime": 3142884,
+      "attempts": 603
+    },
+    "29": {
+      "allTime": 4053985,
+      "attempts": 601
+    },
+    "30": {
+      "allTime": 3224929,
+      "attempts": 603
+    },
+    "31": {
+      "allTime": 5058476,
+      "attempts": 533
+    },
+    "32": {
+      "allTime": 3215606,
+      "attempts": 582
+    },
+    "33": {
+      "allTime": 2637510,
+      "attempts": 508
+    },
+    "34": {
+      "allTime": 2688646,
+      "attempts": 532
+    },
+    "35": {
+      "allTime": 2176603,
+      "attempts": 598
+    },
+    "36": {
+      "allTime": 3032318,
+      "attempts": 557
+    },
+    "37": {
+      "allTime": 3113272,
+      "attempts": 571
+    },
+    "38": {
+      "allTime": 2995088,
+      "attempts": 596
+    },
+    "39": {
+      "allTime": 4151340,
+      "attempts": 611
+    },
+    "40": {
+      "allTime": 4160381,
+      "attempts": 604
+    },
+    "41": {
+      "allTime": 6830289,
+      "attempts": 540
+    },
+    "42": {
+      "allTime": 3002210,
+      "attempts": 587
+    },
+    "43": {
+      "allTime": 4582965,
+      "attempts": 594
+    },
+    "44": {
+      "allTime": 3953192,
+      "attempts": 560
+    },
+    "45": {
+      "allTime": 4369126,
+      "attempts": 589
+    },
+    "46": {
+      "allTime": 4327497,
+      "attempts": 581
+    },
+    "47": {
+      "allTime": 4172257,
+      "attempts": 585
+    },
+    "48": {
+      "allTime": 3867627,
+      "attempts": 557
+    },
+    "49": {
+      "allTime": 4663224,
+      "attempts": 573
+    },
+    "50": {
+      "allTime": 5662167,
+      "attempts": 549
+    },
+    "51": {
+      "allTime": 63897437,
+      "attempts": 617
+    },
+    "52": {
+      "allTime": 63518645,
+      "attempts": 588
+    },
+    "53": {
+      "allTime": 5614244,
+      "attempts": 563
+    },
+    "54": {
+      "allTime": 4886055,
+      "attempts": 543
+    },
+    "55": {
+      "allTime": 5252094,
+      "attempts": 591
+    },
+    "56": {
+      "allTime": 5233527,
+      "attempts": 582
+    },
+    "57": {
+      "allTime": 5837946,
+      "attempts": 555
+    },
+    "58": {
+      "allTime": 5007591,
+      "attempts": 557
+    },
+    "59": {
+      "allTime": 5306195,
+      "attempts": 606
+    },
+    "60": {
+      "allTime": 5955952,
+      "attempts": 551
+    },
+    "61": {
+      "allTime": 4856765,
+      "attempts": 566
+    },
+    "62": {
+      "allTime": 4958910,
+      "attempts": 541
+    },
+    "63": {
+      "allTime": 3919969,
+      "attempts": 549
+    },
+    "64": {
+      "allTime": 7209220,
+      "attempts": 559
+    },
+    "65": {
+      "allTime": 5990348,
+      "attempts": 548
+    },
+    "66": {
+      "allTime": 6316807,
+      "attempts": 610
+    },
+    "67": {
+      "allTime": 5920351,
+      "attempts": 581
+    },
+    "68": {
+      "allTime": 6079005,
+      "attempts": 616
+    },
+    "69": {
+      "allTime": 5737729,
+      "attempts": 594
+    },
+    "70": {
+      "allTime": 10105188,
+      "attempts": 566
+    },
+    "71": {
+      "allTime": 7503294,
+      "attempts": 610
+    },
+    "72": {
+      "allTime": 7029910,
+      "attempts": 587
+    },
+    "73": {
+      "allTime": 8548498,
+      "attempts": 573
+    },
+    "74": {
+      "allTime": 8831914,
+      "attempts": 588
+    },
+    "75": {
+      "allTime": 6765048,
+      "attempts": 570
+    },
+    "76": {
+      "allTime": 6972643,
+      "attempts": 616
+    },
+    "77": {
+      "allTime": 6519033,
+      "attempts": 563
+    },
+    "78": {
+      "allTime": 5213623,
+      "attempts": 566
+    },
+    "79": {
+      "allTime": 6221079,
+      "attempts": 538
+    },
+    "80": {
+      "allTime": 7919512,
+      "attempts": 596
+    },
+    "81": {
+      "allTime": 6438275,
+      "attempts": 550
+    },
+    "82": {
+      "allTime": 4704004,
+      "attempts": 541
+    },
+    "83": {
+      "allTime": 7934943,
+      "attempts": 555
+    },
+    "84": {
+      "allTime": 8145778,
+      "attempts": 582
+    },
+    "85": {
+      "allTime": 8015052,
+      "attempts": 569
+    },
+    "86": {
+      "allTime": 6248023,
+      "attempts": 584
+    },
+    "87": {
+      "allTime": 13771448,
+      "attempts": 607
+    },
+    "88": {
+      "allTime": 8499531,
+      "attempts": 601
+    },
+    "89": {
+      "allTime": 7685188,
+      "attempts": 581
+    },
+    "90": {
+      "allTime": 7812682,
+      "attempts": 567
+    },
+    "91": {
+      "allTime": 7732361,
+      "attempts": 565
+    },
+    "92": {
+      "allTime": 9013516,
+      "attempts": 583
+    },
+    "93": {
+      "allTime": 10897635,
+      "attempts": 589
+    },
+    "94": {
+      "allTime": 8645468,
+      "attempts": 591
+    },
+    "95": {
+      "allTime": 70801444,
+      "attempts": 595
+    },
+    "96": {
+      "allTime": 9920320,
+      "attempts": 596
+    },
+    "97": {
+      "allTime": 9737709,
+      "attempts": 555
+    },
+    "98": {
+      "allTime": 7855364,
+      "attempts": 527
+    },
+    "99": {
+      "allTime": 10437127,
+      "attempts": 579
+    },
+    "100": {
+      "allTime": 9146111,
+      "attempts": 614
+    },
+    "101": {
+      "allTime": 12901299,
+      "attempts": 558
+    },
+    "102": {
+      "allTime": 8862751,
+      "attempts": 565
+    },
+    "103": {
+      "allTime": 10999624,
+      "attempts": 573
+    },
+    "104": {
+      "allTime": 9864690,
+      "attempts": 599
+    },
+    "105": {
+      "allTime": 11903395,
+      "attempts": 581
+    },
+    "106": {
+      "allTime": 9997167,
+      "attempts": 583
+    },
+    "107": {
+      "allTime": 9466629,
+      "attempts": 577
+    },
+    "108": {
+      "allTime": 10720717,
+      "attempts": 569
+    },
+    "109": {
+      "allTime": 10576248,
+      "attempts": 591
+    },
+    "110": {
+      "allTime": 10551905,
+      "attempts": 563
+    },
+    "111": {
+      "allTime": 8567545,
+      "attempts": 533
+    },
+    "112": {
+      "allTime": 10004861,
+      "attempts": 559
+    },
+    "113": {
+      "allTime": 9768753,
+      "attempts": 517
+    },
+    "114": {
+      "allTime": 9778805,
+      "attempts": 574
+    },
+    "115": {
+      "allTime": 10556586,
+      "attempts": 580
+    },
+    "116": {
+      "allTime": 11627376,
+      "attempts": 590
+    },
+    "117": {
+      "allTime": 10550396,
+      "attempts": 578
+    },
+    "118": {
+      "allTime": 10299378,
+      "attempts": 575
+    },
+    "119": {
+      "allTime": 9998834,
+      "attempts": 569
+    },
+    "120": {
+      "allTime": 10248848,
+      "attempts": 588
+    },
+    "121": {
+      "allTime": 8708793,
+      "attempts": 559
+    },
+    "122": {
+      "allTime": 14441753,
+      "attempts": 575
+    },
+    "123": {
+      "allTime": 13033080,
+      "attempts": 601
+    },
+    "124": {
+      "allTime": 16889718,
+      "attempts": 561
+    },
+    "125": {
+      "allTime": 10812160,
+      "attempts": 564
+    },
+    "126": {
+      "allTime": 13420729,
+      "attempts": 572
+    },
+    "127": {
+      "allTime": 11450377,
+      "attempts": 580
+    },
+    "128": {
+      "allTime": 12229796,
+      "attempts": 535
+    },
+    "129": {
+      "allTime": 37113233,
+      "attempts": 586
+    },
+    "130": {
+      "allTime": 12453036,
+      "attempts": 559
+    },
+    "131": {
+      "allTime": 12876279,
+      "attempts": 576
+    },
+    "132": {
+      "allTime": 12378619,
+      "attempts": 585
+    },
+    "133": {
+      "allTime": 14463875,
+      "attempts": 568
+    },
+    "134": {
+      "allTime": 12888710,
+      "attempts": 602
+    },
+    "135": {
+      "allTime": 15207294,
+      "attempts": 584
+    },
+    "136": {
+      "allTime": 9811540,
+      "attempts": 536
+    },
+    "137": {
+      "allTime": 11918060,
+      "attempts": 612
+    },
+    "138": {
+      "allTime": 11029319,
+      "attempts": 600
+    },
+    "139": {
+      "allTime": 15503616,
+      "attempts": 562
+    },
+    "140": {
+      "allTime": 11804639,
+      "attempts": 596
+    },
+    "141": {
+      "allTime": 14027705,
+      "attempts": 568
+    },
+    "142": {
+      "allTime": 14634110,
+      "attempts": 559
+    },
+    "143": {
+      "allTime": 11524134,
+      "attempts": 547
+    },
+    "144": {
+      "allTime": 13983499,
+      "attempts": 575
+    },
+    "145": {
+      "allTime": 18747888,
+      "attempts": 590
+    },
+    "146": {
+      "allTime": 17569439,
+      "attempts": 599
+    },
+    "147": {
+      "allTime": 14135185,
+      "attempts": 589
+    },
+    "148": {
+      "allTime": 13759401,
+      "attempts": 588
+    },
+    "149": {
+      "allTime": 11591844,
+      "attempts": 570
+    },
+    "150": {
+      "allTime": 14874545,
+      "attempts": 570
+    },
+    "151": {
+      "allTime": 13980251,
+      "attempts": 562
+    },
+    "152": {
+      "allTime": 14087176,
+      "attempts": 578
+    },
+    "153": {
+      "allTime": 15472325,
+      "attempts": 585
+    },
+    "154": {
+      "allTime": 17715305,
+      "attempts": 529
+    },
+    "155": {
+      "allTime": 14125421,
+      "attempts": 569
+    },
+    "156": {
+      "allTime": 13413013,
+      "attempts": 534
+    },
+    "157": {
+      "allTime": 17888147,
+      "attempts": 551
+    },
+    "158": {
+      "allTime": 18690531,
+      "attempts": 608
+    },
+    "159": {
+      "allTime": 16362945,
+      "attempts": 613
+    },
+    "160": {
+      "allTime": 12330379,
+      "attempts": 553
+    },
+    "161": {
+      "allTime": 44337998,
+      "attempts": 611
+    },
+    "162": {
+      "allTime": 20641535,
+      "attempts": 563
+    },
+    "163": {
+      "allTime": 16288488,
+      "attempts": 510
+    },
+    "164": {
+      "allTime": 39211052,
+      "attempts": 537
+    },
+    "165": {
+      "allTime": 13213520,
+      "attempts": 586
+    },
+    "166": {
+      "allTime": 15250459,
+      "attempts": 555
+    },
+    "167": {
+      "allTime": 16506289,
+      "attempts": 521
+    },
+    "168": {
+      "allTime": 14479083,
+      "attempts": 570
+    },
+    "169": {
+      "allTime": 14509628,
+      "attempts": 601
+    },
+    "170": {
+      "allTime": 28621705,
+      "attempts": 581
+    },
+    "171": {
+      "allTime": 17160072,
+      "attempts": 586
+    },
+    "172": {
+      "allTime": 16300622,
+      "attempts": 558
+    },
+    "173": {
+      "allTime": 17025964,
+      "attempts": 573
+    },
+    "174": {
+      "allTime": 15878170,
+      "attempts": 556
+    },
+    "175": {
+      "allTime": 16556656,
+      "attempts": 540
+    },
+    "176": {
+      "allTime": 22585243,
+      "attempts": 531
+    },
+    "177": {
+      "allTime": 16240202,
+      "attempts": 550
+    },
+    "178": {
+      "allTime": 15013231,
+      "attempts": 568
+    },
+    "179": {
+      "allTime": 17046283,
+      "attempts": 588
+    },
+    "180": {
+      "allTime": 19167489,
+      "attempts": 569
+    },
+    "181": {
+      "allTime": 19380571,
+      "attempts": 569
+    },
+    "182": {
+      "allTime": 21489650,
+      "attempts": 578
+    },
+    "183": {
+      "allTime": 17189030,
+      "attempts": 565
+    },
+    "184": {
+      "allTime": 13887119,
+      "attempts": 518
+    },
+    "185": {
+      "allTime": 16556984,
+      "attempts": 594
+    },
+    "186": {
+      "allTime": 15667714,
+      "attempts": 546
+    },
+    "187": {
+      "allTime": 20704715,
+      "attempts": 537
+    },
+    "188": {
+      "allTime": 20592472,
+      "attempts": 583
+    },
+    "189": {
+      "allTime": 23348847,
+      "attempts": 567
+    },
+    "190": {
+      "allTime": 19363919,
+      "attempts": 578
+    },
+    "191": {
+      "allTime": 20499402,
+      "attempts": 583
+    },
+    "192": {
+      "allTime": 26681176,
+      "attempts": 564
+    },
+    "193": {
+      "allTime": 18746266,
+      "attempts": 591
+    },
+    "194": {
+      "allTime": 15995685,
+      "attempts": 582
+    },
+    "195": {
+      "allTime": 20957496,
+      "attempts": 580
+    },
+    "196": {
+      "allTime": 19151044,
+      "attempts": 584
+    },
+    "197": {
+      "allTime": 20389465,
+      "attempts": 549
+    },
+    "198": {
+      "allTime": 17115582,
+      "attempts": 580
+    },
+    "199": {
+      "allTime": 19580191,
+      "attempts": 553
+    },
+    "200": {
+      "allTime": 18691936,
+      "attempts": 586
+    },
+    "201": {
+      "allTime": 33165869,
+      "attempts": 543
+    },
+    "202": {
+      "allTime": 19008151,
+      "attempts": 567
+    },
+    "203": {
+      "allTime": 20192311,
+      "attempts": 560
+    },
+    "204": {
+      "allTime": 20127376,
+      "attempts": 527
+    },
+    "205": {
+      "allTime": 18479944,
+      "attempts": 577
+    },
+    "206": {
+      "allTime": 19612187,
+      "attempts": 564
+    },
+    "207": {
+      "allTime": 22386749,
+      "attempts": 609
+    },
+    "208": {
+      "allTime": 17802090,
+      "attempts": 531
+    },
+    "209": {
+      "allTime": 26063927,
+      "attempts": 592
+    },
+    "210": {
+      "allTime": 19830953,
+      "attempts": 612
+    },
+    "211": {
+      "allTime": 19413264,
+      "attempts": 595
+    },
+    "212": {
+      "allTime": 20841542,
+      "attempts": 504
+    },
+    "213": {
+      "allTime": 26079772,
+      "attempts": 566
+    },
+    "214": {
+      "allTime": 18654125,
+      "attempts": 561
+    },
+    "215": {
+      "allTime": 22616860,
+      "attempts": 559
+    },
+    "216": {
+      "allTime": 24133348,
+      "attempts": 556
+    },
+    "217": {
+      "allTime": 16361439,
+      "attempts": 519
+    },
+    "218": {
+      "allTime": 21854850,
+      "attempts": 565
+    },
+    "219": {
+      "allTime": 21472403,
+      "attempts": 575
+    },
+    "220": {
+      "allTime": 39074403,
+      "attempts": 600
+    },
+    "221": {
+      "allTime": 31858230,
+      "attempts": 573
+    },
+    "222": {
+      "allTime": 20768521,
+      "attempts": 530
+    },
+    "223": {
+      "allTime": 21923150,
+      "attempts": 578
+    },
+    "224": {
+      "allTime": 21847505,
+      "attempts": 534
+    },
+    "225": {
+      "allTime": 21444722,
+      "attempts": 593
+    },
+    "226": {
+      "allTime": 23950783,
+      "attempts": 591
+    },
+    "227": {
+      "allTime": 20602024,
+      "attempts": 589
+    },
+    "228": {
+      "allTime": 22474373,
+      "attempts": 536
+    },
+    "229": {
+      "allTime": 27287258,
+      "attempts": 562
+    },
+    "230": {
+      "allTime": 20803303,
+      "attempts": 547
+    },
+    "231": {
+      "allTime": 23451503,
+      "attempts": 531
+    },
+    "232": {
+      "allTime": 23106225,
+      "attempts": 594
+    },
+    "233": {
+      "allTime": 27834281,
+      "attempts": 562
+    },
+    "234": {
+      "allTime": 36222104,
+      "attempts": 595
+    },
+    "235": {
+      "allTime": 22910649,
+      "attempts": 581
+    },
+    "236": {
+      "allTime": 30185760,
+      "attempts": 568
+    },
+    "237": {
+      "allTime": 25596248,
+      "attempts": 573
+    },
+    "238": {
+      "allTime": 27309720,
+      "attempts": 598
+    },
+    "239": {
+      "allTime": 26529202,
+      "attempts": 578
+    },
+    "240": {
+      "allTime": 25545904,
+      "attempts": 600
+    },
+    "241": {
+      "allTime": 22804761,
+      "attempts": 586
+    },
+    "242": {
+      "allTime": 24855611,
+      "attempts": 582
+    },
+    "243": {
+      "allTime": 20015332,
+      "attempts": 555
+    },
+    "244": {
+      "allTime": 25880228,
+      "attempts": 592
+    },
+    "245": {
+      "allTime": 25114054,
+      "attempts": 535
+    },
+    "246": {
+      "allTime": 40944126,
+      "attempts": 596
+    },
+    "247": {
+      "allTime": 21951186,
+      "attempts": 578
+    },
+    "248": {
+      "allTime": 21662566,
+      "attempts": 535
+    },
+    "249": {
+      "allTime": 24311507,
+      "attempts": 599
+    },
+    "250": {
+      "allTime": 34592654,
+      "attempts": 575
+    },
+    "251": {
+      "allTime": 23269986,
+      "attempts": 584
+    },
+    "252": {
+      "allTime": 31945022,
+      "attempts": 576
+    },
+    "253": {
+      "allTime": 25037435,
+      "attempts": 603
+    },
+    "254": {
+      "allTime": 25537625,
+      "attempts": 593
+    },
+    "255": {
+      "allTime": 28892591,
+      "attempts": 549
+    },
+    "256": {
+      "allTime": 26693336,
+      "attempts": 566
+    },
+    "257": {
+      "allTime": 34812314,
+      "attempts": 562
+    },
+    "258": {
+      "allTime": 26875007,
+      "attempts": 566
+    },
+    "259": {
+      "allTime": 77093527,
+      "attempts": 568
+    },
+    "260": {
+      "allTime": 90832879,
+      "attempts": 531
+    },
+    "261": {
+      "allTime": 36693984,
+      "attempts": 568
+    },
+    "262": {
+      "allTime": 28896147,
+      "attempts": 566
+    },
+    "263": {
+      "allTime": 30600052,
+      "attempts": 536
+    },
+    "264": {
+      "allTime": 35354904,
+      "attempts": 575
+    },
+    "265": {
+      "allTime": 28137817,
+      "attempts": 507
+    },
+    "266": {
+      "allTime": 29401708,
+      "attempts": 585
+    },
+    "267": {
+      "allTime": 34795878,
+      "attempts": 587
+    },
+    "268": {
+      "allTime": 38020593,
+      "attempts": 578
+    },
+    "269": {
+      "allTime": 31404196,
+      "attempts": 576
+    },
+    "270": {
+      "allTime": 35354264,
+      "attempts": 562
+    },
+    "271": {
+      "allTime": 26206906,
+      "attempts": 569
+    },
+    "272": {
+      "allTime": 38505403,
+      "attempts": 571
+    },
+    "273": {
+      "allTime": 40027152,
+      "attempts": 582
+    },
+    "274": {
+      "allTime": 36999185,
+      "attempts": 575
+    },
+    "275": {
+      "allTime": 28716819,
+      "attempts": 568
+    },
+    "276": {
+      "allTime": 30602982,
+      "attempts": 574
+    },
+    "277": {
+      "allTime": 28293195,
+      "attempts": 574
+    },
+    "278": {
+      "allTime": 31869032,
+      "attempts": 582
+    },
+    "279": {
+      "allTime": 33598512,
+      "attempts": 551
+    },
+    "280": {
+      "allTime": 27187922,
+      "attempts": 552
+    },
+    "281": {
+      "allTime": 27463039,
+      "attempts": 593
+    },
+    "282": {
+      "allTime": 31874040,
+      "attempts": 608
+    },
+    "283": {
+      "allTime": 33236559,
+      "attempts": 598
+    },
+    "284": {
+      "allTime": 37211119,
+      "attempts": 573
+    },
+    "285": {
+      "allTime": 32608889,
+      "attempts": 604
+    },
+    "286": {
+      "allTime": 26355430,
+      "attempts": 576
+    },
+    "287": {
+      "allTime": 41554092,
+      "attempts": 560
+    },
+    "288": {
+      "allTime": 49521742,
+      "attempts": 566
+    },
+    "289": {
+      "allTime": 30206673,
+      "attempts": 543
+    },
+    "290": {
+      "allTime": 31373149,
+      "attempts": 577
+    },
+    "291": {
+      "allTime": 32158194,
+      "attempts": 550
+    },
+    "292": {
+      "allTime": 41174087,
+      "attempts": 577
+    },
+    "293": {
+      "allTime": 40678424,
+      "attempts": 598
+    },
+    "294": {
+      "allTime": 32724157,
+      "attempts": 569
+    },
+    "295": {
+      "allTime": 33005816,
+      "attempts": 598
+    },
+    "296": {
+      "allTime": 40001606,
+      "attempts": 588
+    },
+    "297": {
+      "allTime": 35064733,
+      "attempts": 538
+    },
+    "298": {
+      "allTime": 26862605,
+      "attempts": 571
+    },
+    "299": {
+      "allTime": 38248570,
+      "attempts": 575
+    },
+    "300": {
+      "allTime": 34656728,
+      "attempts": 542
+    },
+    "301": {
+      "allTime": 44262235,
+      "attempts": 593
+    },
+    "302": {
+      "allTime": 35261493,
+      "attempts": 596
+    },
+    "303": {
+      "allTime": 29932162,
+      "attempts": 588
+    },
+    "304": {
+      "allTime": 40601244,
+      "attempts": 592
+    },
+    "305": {
+      "allTime": 46632640,
+      "attempts": 624
+    },
+    "306": {
+      "allTime": 29473265,
+      "attempts": 555
+    },
+    "307": {
+      "allTime": 37269266,
+      "attempts": 582
+    },
+    "308": {
+      "allTime": 36717449,
+      "attempts": 577
+    },
+    "309": {
+      "allTime": 36305333,
+      "attempts": 533
+    },
+    "310": {
+      "allTime": 35408137,
+      "attempts": 550
+    },
+    "311": {
+      "allTime": 35610925,
+      "attempts": 582
+    },
+    "312": {
+      "allTime": 30887857,
+      "attempts": 541
+    },
+    "313": {
+      "allTime": 45858110,
+      "attempts": 575
+    },
+    "314": {
+      "allTime": 41222400,
+      "attempts": 563
+    },
+    "315": {
+      "allTime": 44259773,
+      "attempts": 573
+    },
+    "316": {
+      "allTime": 73224197,
+      "attempts": 603
+    },
+    "317": {
+      "allTime": 43605844,
+      "attempts": 569
+    },
+    "318": {
+      "allTime": 54032794,
+      "attempts": 570
+    },
+    "319": {
+      "allTime": 35526958,
+      "attempts": 568
+    },
+    "320": {
+      "allTime": 59454993,
+      "attempts": 584
+    },
+    "321": {
+      "allTime": 38205330,
+      "attempts": 553
+    },
+    "322": {
+      "allTime": 38653770,
+      "attempts": 603
+    },
+    "323": {
+      "allTime": 44307529,
+      "attempts": 582
+    },
+    "324": {
+      "allTime": 52037688,
+      "attempts": 631
+    },
+    "325": {
+      "allTime": 42545188,
+      "attempts": 594
+    },
+    "326": {
+      "allTime": 42733327,
+      "attempts": 572
+    },
+    "327": {
+      "allTime": 44381744,
+      "attempts": 567
+    },
+    "328": {
+      "allTime": 34709852,
+      "attempts": 585
+    },
+    "329": {
+      "allTime": 47130059,
+      "attempts": 529
+    },
+    "330": {
+      "allTime": 37634380,
+      "attempts": 563
+    },
+    "331": {
+      "allTime": 43750997,
+      "attempts": 544
+    },
+    "332": {
+      "allTime": 61980904,
+      "attempts": 585
+    },
+    "333": {
+      "allTime": 48071877,
+      "attempts": 583
+    },
+    "334": {
+      "allTime": 39874347,
+      "attempts": 563
+    },
+    "335": {
+      "allTime": 35165862,
+      "attempts": 554
+    },
+    "336": {
+      "allTime": 61219161,
+      "attempts": 570
+    },
+    "337": {
+      "allTime": 47229579,
+      "attempts": 581
+    },
+    "338": {
+      "allTime": 43254737,
+      "attempts": 587
+    },
+    "339": {
+      "allTime": 48093217,
+      "attempts": 634
+    },
+    "340": {
+      "allTime": 63795577,
+      "attempts": 558
+    },
+    "341": {
+      "allTime": 49208456,
+      "attempts": 579
+    },
+    "342": {
+      "allTime": 57229102,
+      "attempts": 591
+    },
+    "343": {
+      "allTime": 57989786,
+      "attempts": 575
+    },
+    "344": {
+      "allTime": 38590971,
+      "attempts": 579
+    },
+    "345": {
+      "allTime": 41281515,
+      "attempts": 562
+    },
+    "346": {
+      "allTime": 35288574,
+      "attempts": 528
+    },
+    "347": {
+      "allTime": 49368544,
+      "attempts": 590
+    },
+    "348": {
+      "allTime": 48218000,
+      "attempts": 576
+    },
+    "349": {
+      "allTime": 41750825,
+      "attempts": 563
+    },
+    "350": {
+      "allTime": 83067563,
+      "attempts": 594
+    },
+    "351": {
+      "allTime": 52261820,
+      "attempts": 561
+    },
+    "352": {
+      "allTime": 57230341,
+      "attempts": 584
+    },
+    "353": {
+      "allTime": 50903989,
+      "attempts": 595
+    },
+    "354": {
+      "allTime": 37901538,
+      "attempts": 529
+    },
+    "355": {
+      "allTime": 46666730,
+      "attempts": 569
+    },
+    "356": {
+      "allTime": 48439144,
+      "attempts": 603
+    },
+    "357": {
+      "allTime": 47338918,
+      "attempts": 569
+    },
+    "358": {
+      "allTime": 50504485,
+      "attempts": 577
+    },
+    "359": {
+      "allTime": 76822840,
+      "attempts": 553
+    },
+    "360": {
+      "allTime": 62497865,
+      "attempts": 557
+    },
+    "361": {
+      "allTime": 94868542,
+      "attempts": 597
+    },
+    "362": {
+      "allTime": 48702984,
+      "attempts": 518
+    },
+    "363": {
+      "allTime": 55615464,
+      "attempts": 549
+    },
+    "364": {
+      "allTime": 61010269,
+      "attempts": 539
+    },
+    "365": {
+      "allTime": 68665648,
+      "attempts": 565
+    },
+    "366": {
+      "allTime": 51676897,
+      "attempts": 547
+    },
+    "367": {
+      "allTime": 73297846,
+      "attempts": 556
+    },
+    "368": {
+      "allTime": 56826459,
+      "attempts": 567
+    },
+    "369": {
+      "allTime": 45517137,
+      "attempts": 552
+    },
+    "370": {
+      "allTime": 59960262,
+      "attempts": 598
+    },
+    "371": {
+      "allTime": 70938876,
+      "attempts": 597
+    },
+    "372": {
+      "allTime": 80951275,
+      "attempts": 599
+    },
+    "373": {
+      "allTime": 57430028,
+      "attempts": 580
+    },
+    "374": {
+      "allTime": 73335289,
+      "attempts": 578
+    },
+    "375": {
+      "allTime": 70229540,
+      "attempts": 598
+    },
+    "376": {
+      "allTime": 60389371,
+      "attempts": 555
+    },
+    "377": {
+      "allTime": 105608211,
+      "attempts": 579
+    },
+    "378": {
+      "allTime": 72683140,
+      "attempts": 554
+    },
+    "379": {
+      "allTime": 80665331,
+      "attempts": 562
+    },
+    "380": {
+      "allTime": 65578069,
+      "attempts": 550
+    },
+    "381": {
+      "allTime": 55412227,
+      "attempts": 567
+    },
+    "382": {
+      "allTime": 72264322,
+      "attempts": 565
+    },
+    "383": {
+      "allTime": 99316534,
+      "attempts": 566
+    },
+    "384": {
+      "allTime": 60654392,
+      "attempts": 572
+    },
+    "385": {
+      "allTime": 60110531,
+      "attempts": 589
+    },
+    "386": {
+      "allTime": 55739342,
+      "attempts": 572
+    },
+    "387": {
+      "allTime": 54501892,
+      "attempts": 576
+    },
+    "388": {
+      "allTime": 97076042,
+      "attempts": 543
+    },
+    "389": {
+      "allTime": 82490497,
+      "attempts": 568
+    },
+    "390": {
+      "allTime": 113256245,
+      "attempts": 543
+    },
+    "391": {
+      "allTime": 58535472,
+      "attempts": 551
+    },
+    "392": {
+      "allTime": 86916915,
+      "attempts": 568
+    },
+    "393": {
+      "allTime": 85096028,
+      "attempts": 555
+    },
+    "394": {
+      "allTime": 73491579,
+      "attempts": 581
+    },
+    "395": {
+      "allTime": 58017192,
+      "attempts": 555
+    },
+    "396": {
+      "allTime": 85536720,
+      "attempts": 606
+    },
+    "397": {
+      "allTime": 95397066,
+      "attempts": 557
+    },
+    "398": {
+      "allTime": 84568441,
+      "attempts": 542
+    },
+    "399": {
+      "allTime": 85311615,
+      "attempts": 610
+    },
+    "400": {
+      "allTime": 61644449,
+      "attempts": 559
+    },
+    "401": {
+      "allTime": 104146329,
+      "attempts": 559
+    },
+    "402": {
+      "allTime": 71140692,
+      "attempts": 566
+    },
+    "403": {
+      "allTime": 72518057,
+      "attempts": 583
+    },
+    "404": {
+      "allTime": 87840163,
+      "attempts": 560
+    },
+    "405": {
+      "allTime": 159167120,
+      "attempts": 585
+    },
+    "406": {
+      "allTime": 119877222,
+      "attempts": 560
+    },
+    "407": {
+      "allTime": 73212715,
+      "attempts": 560
+    },
+    "408": {
+      "allTime": 61369322,
+      "attempts": 533
+    },
+    "409": {
+      "allTime": 65686865,
+      "attempts": 584
+    },
+    "410": {
+      "allTime": 217519248,
+      "attempts": 564
+    },
+    "411": {
+      "allTime": 96208852,
+      "attempts": 572
+    },
+    "412": {
+      "allTime": 117071731,
+      "attempts": 576
+    },
+    "413": {
+      "allTime": 195241273,
+      "attempts": 549
+    },
+    "414": {
+      "allTime": 72564254,
+      "attempts": 565
+    },
+    "415": {
+      "allTime": 111128267,
+      "attempts": 551
+    },
+    "416": {
+      "allTime": 134889976,
+      "attempts": 558
+    },
+    "417": {
+      "allTime": 179263708,
+      "attempts": 586
+    },
+    "418": {
+      "allTime": 100836341,
+      "attempts": 547
+    },
+    "419": {
+      "allTime": 198744077,
+      "attempts": 566
+    },
+    "420": {
+      "allTime": 78739322,
+      "attempts": 552
+    },
+    "421": {
+      "allTime": 110203068,
+      "attempts": 585
+    },
+    "422": {
+      "allTime": 84305683,
+      "attempts": 550
+    },
+    "423": {
+      "allTime": 97895985,
+      "attempts": 625
+    },
+    "424": {
+      "allTime": 213599994,
+      "attempts": 584
+    },
+    "425": {
+      "allTime": 94872716,
+      "attempts": 560
+    },
+    "426": {
+      "allTime": 241892808,
+      "attempts": 581
+    },
+    "427": {
+      "allTime": 61918986,
+      "attempts": 590
+    },
+    "428": {
+      "allTime": 119205598,
+      "attempts": 561
+    },
+    "429": {
+      "allTime": 117967816,
+      "attempts": 633
+    },
+    "430": {
+      "allTime": 215279695,
+      "attempts": 559
+    },
+    "431": {
+      "allTime": 214712475,
+      "attempts": 570
+    },
+    "432": {
+      "allTime": 278355724,
+      "attempts": 512
+    },
+    "433": {
+      "allTime": 292595379,
+      "attempts": 535
+    },
+    "434": {
+      "allTime": 235243087,
+      "attempts": 608
+    },
+    "435": {
+      "allTime": 188857452,
+      "attempts": 542
+    },
+    "436": {
+      "allTime": 179718162,
+      "attempts": 556
+    },
+    "437": {
+      "allTime": 145738479,
+      "attempts": 585
+    },
+    "438": {
+      "allTime": 221546614,
+      "attempts": 566
+    },
+    "439": {
+      "allTime": 168994585,
+      "attempts": 605
+    },
+    "440": {
+      "allTime": 167340289,
+      "attempts": 607
+    },
+    "441": {
+      "allTime": 522217285,
+      "attempts": 552
+    },
+    "442": {
+      "allTime": 515646187,
+      "attempts": 637
+    },
+    "443": {
+      "allTime": 186652642,
+      "attempts": 597
+    },
+    "444": {
+      "allTime": 60964835,
+      "attempts": 553
+    },
+    "445": {
+      "allTime": 258298661,
+      "attempts": 606
+    },
+    "446": {
+      "allTime": 115788318,
+      "attempts": 545
+    },
+    "447": {
+      "allTime": 162201604,
+      "attempts": 563
+    },
+    "448": {
+      "allTime": 176129077,
+      "attempts": 580
+    },
+    "449": {
+      "allTime": 193203597,
+      "attempts": 533
+    },
+    "450": {
+      "allTime": 541706636,
+      "attempts": 542
+    },
+    "451": {
+      "allTime": 347727446,
+      "attempts": 589
+    },
+    "452": {
+      "allTime": 306845159,
+      "attempts": 606
+    },
+    "453": {
+      "allTime": 94862597,
+      "attempts": 565
+    },
+    "454": {
+      "allTime": 207425105,
+      "attempts": 505
+    },
+    "455": {
+      "allTime": 555532743,
+      "attempts": 631
+    },
+    "456": {
+      "allTime": 747488188,
+      "attempts": 561
+    },
+    "457": {
+      "allTime": 347309906,
+      "attempts": 570
+    },
+    "458": {
+      "allTime": 262042304,
+      "attempts": 513
+    },
+    "459": {
+      "allTime": 323677155,
+      "attempts": 524
+    },
+    "460": {
+      "allTime": 186677029,
+      "attempts": 569
+    },
+    "461": {
+      "allTime": 462366950,
+      "attempts": 582
+    },
+    "462": {
+      "allTime": 271578555,
+      "attempts": 587
+    },
+    "463": {
+      "allTime": 279360100,
+      "attempts": 584
+    },
+    "464": {
+      "allTime": 588876512,
+      "attempts": 558
+    },
+    "465": {
+      "allTime": 575384143,
+      "attempts": 572
+    },
+    "466": {
+      "allTime": 1090007594,
+      "attempts": 600
+    },
+    "467": {
+      "allTime": 488052620,
+      "attempts": 583
+    },
+    "468": {
+      "allTime": 716150441,
+      "attempts": 546
+    },
+    "469": {
+      "allTime": 679150439,
+      "attempts": 558
+    },
+    "470": {
+      "allTime": 167223744,
+      "attempts": 552
+    },
+    "471": {
+      "allTime": 523180577,
+      "attempts": 555
+    },
+    "472": {
+      "allTime": 82566271,
+      "attempts": 585
+    },
+    "473": {
+      "allTime": 545581913,
+      "attempts": 578
+    },
+    "474": {
+      "allTime": 218737281,
+      "attempts": 568
+    },
+    "475": {
+      "allTime": 148443307,
+      "attempts": 591
+    },
+    "476": {
+      "allTime": 395092125,
+      "attempts": 577
+    },
+    "477": {
+      "allTime": 888264777,
+      "attempts": 516
+    },
+    "478": {
+      "allTime": 365555586,
+      "attempts": 519
+    },
+    "479": {
+      "allTime": 137482321,
+      "attempts": 584
+    },
+    "480": {
+      "allTime": 944196716,
+      "attempts": 581
+    },
+    "481": {
+      "allTime": 2966514241,
+      "attempts": 568
+    },
+    "482": {
+      "allTime": 679667128,
+      "attempts": 522
+    },
+    "483": {
+      "allTime": 2082006477,
+      "attempts": 589
+    },
+    "484": {
+      "allTime": 378521990,
+      "attempts": 606
+    },
+    "485": {
+      "allTime": 1946408790,
+      "attempts": 565
+    },
+    "486": {
+      "allTime": 1409544606,
+      "attempts": 580
+    },
+    "487": {
+      "allTime": 761964236,
+      "attempts": 553
+    },
+    "488": {
+      "allTime": 447431483,
+      "attempts": 607
+    },
+    "489": {
+      "allTime": 755260985,
+      "attempts": 607
+    },
+    "490": {
+      "allTime": 1931507014,
+      "attempts": 590
+    },
+    "491": {
+      "allTime": 657554742,
+      "attempts": 543
+    },
+    "492": {
+      "allTime": 1319369780,
+      "attempts": 600
+    },
+    "493": {
+      "allTime": 238200456,
+      "attempts": 561
+    },
+    "494": {
+      "allTime": 512838765,
+      "attempts": 597
+    },
+    "495": {
+      "allTime": 378328400,
+      "attempts": 555
+    },
+    "496": {
+      "allTime": 662024898,
+      "attempts": 569
+    },
+    "497": {
+      "allTime": 480448826,
+      "attempts": 563
+    },
+    "498": {
+      "allTime": 281978703,
+      "attempts": 568
+    },
+    "499": {
+      "allTime": 714423744,
+      "attempts": 575
+    }
+  },
+  "consumerResults": {
+    "1": {
+      "allTime": 428163,
+      "attempts": 549
+    },
+    "2": {
+      "allTime": 229516,
+      "attempts": 561
+    },
+    "3": {
+      "allTime": 359045,
+      "attempts": 539
+    },
+    "4": {
+      "allTime": 372495,
+      "attempts": 572
+    },
+    "5": {
+      "allTime": 661724,
+      "attempts": 583
+    },
+    "6": {
+      "allTime": 859262,
+      "attempts": 599
+    },
+    "7": {
+      "allTime": 970136,
+      "attempts": 560
+    },
+    "8": {
+      "allTime": 987028,
+      "attempts": 577
+    },
+    "9": {
+      "allTime": 754420,
+      "attempts": 592
+    },
+    "10": {
+      "allTime": 657215,
+      "attempts": 567
+    },
+    "11": {
+      "allTime": 1000361,
+      "attempts": 585
+    },
+    "12": {
+      "allTime": 1006195,
+      "attempts": 571
+    },
+    "13": {
+      "allTime": 1102800,
+      "attempts": 590
+    },
+    "14": {
+      "allTime": 1166424,
+      "attempts": 583
+    },
+    "15": {
+      "allTime": 1025793,
+      "attempts": 557
+    },
+    "16": {
+      "allTime": 2144872,
+      "attempts": 539
+    },
+    "17": {
+      "allTime": 1718454,
+      "attempts": 581
+    },
+    "18": {
+      "allTime": 1723558,
+      "attempts": 549
+    },
+    "19": {
+      "allTime": 1566770,
+      "attempts": 569
+    },
+    "20": {
+      "allTime": 3771390,
+      "attempts": 607
+    },
+    "21": {
+      "allTime": 2984211,
+      "attempts": 538
+    },
+    "22": {
+      "allTime": 1927056,
+      "attempts": 529
+    },
+    "23": {
+      "allTime": 11247416,
+      "attempts": 553
+    },
+    "24": {
+      "allTime": 2119674,
+      "attempts": 593
+    },
+    "25": {
+      "allTime": 2901865,
+      "attempts": 576
+    },
+    "26": {
+      "allTime": 1725782,
+      "attempts": 556
+    },
+    "27": {
+      "allTime": 2798322,
+      "attempts": 568
+    },
+    "28": {
+      "allTime": 2179904,
+      "attempts": 553
+    },
+    "29": {
+      "allTime": 2398120,
+      "attempts": 578
+    },
+    "30": {
+      "allTime": 2183144,
+      "attempts": 611
+    },
+    "31": {
+      "allTime": 3359906,
+      "attempts": 566
+    },
+    "32": {
+      "allTime": 2188730,
+      "attempts": 550
+    },
+    "33": {
+      "allTime": 3263328,
+      "attempts": 556
+    },
+    "34": {
+      "allTime": 3589371,
+      "attempts": 589
+    },
+    "35": {
+      "allTime": 2745475,
+      "attempts": 578
+    },
+    "36": {
+      "allTime": 4132126,
+      "attempts": 606
+    },
+    "37": {
+      "allTime": 4208768,
+      "attempts": 562
+    },
+    "38": {
+      "allTime": 2403655,
+      "attempts": 587
+    },
+    "39": {
+      "allTime": 4699924,
+      "attempts": 635
+    },
+    "40": {
+      "allTime": 4382315,
+      "attempts": 535
+    },
+    "41": {
+      "allTime": 3092571,
+      "attempts": 531
+    },
+    "42": {
+      "allTime": 3353864,
+      "attempts": 536
+    },
+    "43": {
+      "allTime": 5457985,
+      "attempts": 567
+    },
+    "44": {
+      "allTime": 4036927,
+      "attempts": 590
+    },
+    "45": {
+      "allTime": 5574639,
+      "attempts": 610
+    },
+    "46": {
+      "allTime": 4289157,
+      "attempts": 553
+    },
+    "47": {
+      "allTime": 8990947,
+      "attempts": 588
+    },
+    "48": {
+      "allTime": 4220482,
+      "attempts": 605
+    },
+    "49": {
+      "allTime": 4163564,
+      "attempts": 590
+    },
+    "50": {
+      "allTime": 5107903,
+      "attempts": 561
+    },
+    "51": {
+      "allTime": 5232472,
+      "attempts": 588
+    },
+    "52": {
+      "allTime": 4142113,
+      "attempts": 574
+    },
+    "53": {
+      "allTime": 8337444,
+      "attempts": 568
+    },
+    "54": {
+      "allTime": 4654546,
+      "attempts": 536
+    },
+    "55": {
+      "allTime": 4479572,
+      "attempts": 548
+    },
+    "56": {
+      "allTime": 5726440,
+      "attempts": 582
+    },
+    "57": {
+      "allTime": 17879359,
+      "attempts": 554
+    },
+    "58": {
+      "allTime": 10839329,
+      "attempts": 565
+    },
+    "59": {
+      "allTime": 5501995,
+      "attempts": 586
+    },
+    "60": {
+      "allTime": 4731451,
+      "attempts": 591
+    },
+    "61": {
+      "allTime": 5824816,
+      "attempts": 511
+    },
+    "62": {
+      "allTime": 5062044,
+      "attempts": 583
+    },
+    "63": {
+      "allTime": 6259642,
+      "attempts": 591
+    },
+    "64": {
+      "allTime": 13561017,
+      "attempts": 557
+    },
+    "65": {
+      "allTime": 6320338,
+      "attempts": 589
+    },
+    "66": {
+      "allTime": 7303310,
+      "attempts": 619
+    },
+    "67": {
+      "allTime": 3997829,
+      "attempts": 575
+    },
+    "68": {
+      "allTime": 7042202,
+      "attempts": 568
+    },
+    "69": {
+      "allTime": 4814961,
+      "attempts": 543
+    },
+    "70": {
+      "allTime": 5360625,
+      "attempts": 550
+    },
+    "71": {
+      "allTime": 6470080,
+      "attempts": 537
+    },
+    "72": {
+      "allTime": 8601368,
+      "attempts": 537
+    },
+    "73": {
+      "allTime": 7650042,
+      "attempts": 590
+    },
+    "74": {
+      "allTime": 7681868,
+      "attempts": 577
+    },
+    "75": {
+      "allTime": 6646844,
+      "attempts": 554
+    },
+    "76": {
+      "allTime": 6579836,
+      "attempts": 553
+    },
+    "77": {
+      "allTime": 7994691,
+      "attempts": 590
+    },
+    "78": {
+      "allTime": 14933325,
+      "attempts": 591
+    },
+    "79": {
+      "allTime": 7457858,
+      "attempts": 607
+    },
+    "80": {
+      "allTime": 7236786,
+      "attempts": 565
+    },
+    "81": {
+      "allTime": 6556056,
+      "attempts": 564
+    },
+    "82": {
+      "allTime": 7293746,
+      "attempts": 572
+    },
+    "83": {
+      "allTime": 6952456,
+      "attempts": 566
+    },
+    "84": {
+      "allTime": 6982176,
+      "attempts": 503
+    },
+    "85": {
+      "allTime": 8253114,
+      "attempts": 526
+    },
+    "86": {
+      "allTime": 7179056,
+      "attempts": 606
+    },
+    "87": {
+      "allTime": 6779391,
+      "attempts": 550
+    },
+    "88": {
+      "allTime": 7664469,
+      "attempts": 595
+    },
+    "89": {
+      "allTime": 6767055,
+      "attempts": 570
+    },
+    "90": {
+      "allTime": 8509585,
+      "attempts": 568
+    },
+    "91": {
+      "allTime": 8771703,
+      "attempts": 544
+    },
+    "92": {
+      "allTime": 8271059,
+      "attempts": 595
+    },
+    "93": {
+      "allTime": 9083019,
+      "attempts": 557
+    },
+    "94": {
+      "allTime": 9055970,
+      "attempts": 564
+    },
+    "95": {
+      "allTime": 9513332,
+      "attempts": 546
+    },
+    "96": {
+      "allTime": 8038744,
+      "attempts": 573
+    },
+    "97": {
+      "allTime": 8621657,
+      "attempts": 577
+    },
+    "98": {
+      "allTime": 11215959,
+      "attempts": 573
+    },
+    "99": {
+      "allTime": 9783408,
+      "attempts": 567
+    },
+    "100": {
+      "allTime": 9616275,
+      "attempts": 583
+    },
+    "101": {
+      "allTime": 8629569,
+      "attempts": 565
+    },
+    "102": {
+      "allTime": 10116773,
+      "attempts": 581
+    },
+    "103": {
+      "allTime": 10437369,
+      "attempts": 549
+    },
+    "104": {
+      "allTime": 8248654,
+      "attempts": 567
+    },
+    "105": {
+      "allTime": 10741455,
+      "attempts": 597
+    },
+    "106": {
+      "allTime": 9964698,
+      "attempts": 602
+    },
+    "107": {
+      "allTime": 7457461,
+      "attempts": 580
+    },
+    "108": {
+      "allTime": 10220819,
+      "attempts": 557
+    },
+    "109": {
+      "allTime": 8680495,
+      "attempts": 565
+    },
+    "110": {
+      "allTime": 10181362,
+      "attempts": 594
+    },
+    "111": {
+      "allTime": 11109956,
+      "attempts": 588
+    },
+    "112": {
+      "allTime": 8017492,
+      "attempts": 557
+    },
+    "113": {
+      "allTime": 11114087,
+      "attempts": 591
+    },
+    "114": {
+      "allTime": 9469045,
+      "attempts": 544
+    },
+    "115": {
+      "allTime": 16947166,
+      "attempts": 550
+    },
+    "116": {
+      "allTime": 9358588,
+      "attempts": 568
+    },
+    "117": {
+      "allTime": 9798854,
+      "attempts": 582
+    },
+    "118": {
+      "allTime": 10513027,
+      "attempts": 572
+    },
+    "119": {
+      "allTime": 14860137,
+      "attempts": 610
+    },
+    "120": {
+      "allTime": 14185455,
+      "attempts": 575
+    },
+    "121": {
+      "allTime": 9760891,
+      "attempts": 558
+    },
+    "122": {
+      "allTime": 12847525,
+      "attempts": 566
+    },
+    "123": {
+      "allTime": 18451126,
+      "attempts": 540
+    },
+    "124": {
+      "allTime": 11487475,
+      "attempts": 552
+    },
+    "125": {
+      "allTime": 15663728,
+      "attempts": 599
+    },
+    "126": {
+      "allTime": 13037713,
+      "attempts": 596
+    },
+    "127": {
+      "allTime": 17918612,
+      "attempts": 592
+    },
+    "128": {
+      "allTime": 12774382,
+      "attempts": 573
+    },
+    "129": {
+      "allTime": 12204728,
+      "attempts": 574
+    },
+    "130": {
+      "allTime": 12036011,
+      "attempts": 530
+    },
+    "131": {
+      "allTime": 12342887,
+      "attempts": 541
+    },
+    "132": {
+      "allTime": 13284575,
+      "attempts": 577
+    },
+    "133": {
+      "allTime": 11354367,
+      "attempts": 573
+    },
+    "134": {
+      "allTime": 16430694,
+      "attempts": 583
+    },
+    "135": {
+      "allTime": 24673354,
+      "attempts": 597
+    },
+    "136": {
+      "allTime": 18132580,
+      "attempts": 569
+    },
+    "137": {
+      "allTime": 11043746,
+      "attempts": 547
+    },
+    "138": {
+      "allTime": 19773573,
+      "attempts": 566
+    },
+    "139": {
+      "allTime": 15888373,
+      "attempts": 540
+    },
+    "140": {
+      "allTime": 12741268,
+      "attempts": 579
+    },
+    "141": {
+      "allTime": 15798736,
+      "attempts": 571
+    },
+    "142": {
+      "allTime": 17087562,
+      "attempts": 615
+    },
+    "143": {
+      "allTime": 13390594,
+      "attempts": 585
+    },
+    "144": {
+      "allTime": 12273527,
+      "attempts": 541
+    },
+    "145": {
+      "allTime": 14753423,
+      "attempts": 584
+    },
+    "146": {
+      "allTime": 16370360,
+      "attempts": 588
+    },
+    "147": {
+      "allTime": 16083108,
+      "attempts": 577
+    },
+    "148": {
+      "allTime": 15237238,
+      "attempts": 531
+    },
+    "149": {
+      "allTime": 11544194,
+      "attempts": 523
+    },
+    "150": {
+      "allTime": 15202089,
+      "attempts": 596
+    },
+    "151": {
+      "allTime": 14439698,
+      "attempts": 554
+    },
+    "152": {
+      "allTime": 17133770,
+      "attempts": 579
+    },
+    "153": {
+      "allTime": 15478606,
+      "attempts": 621
+    },
+    "154": {
+      "allTime": 15159470,
+      "attempts": 556
+    },
+    "155": {
+      "allTime": 22958549,
+      "attempts": 587
+    },
+    "156": {
+      "allTime": 13675106,
+      "attempts": 556
+    },
+    "157": {
+      "allTime": 17597816,
+      "attempts": 599
+    },
+    "158": {
+      "allTime": 17473309,
+      "attempts": 590
+    },
+    "159": {
+      "allTime": 14041989,
+      "attempts": 552
+    },
+    "160": {
+      "allTime": 16332091,
+      "attempts": 593
+    },
+    "161": {
+      "allTime": 15497992,
+      "attempts": 609
+    },
+    "162": {
+      "allTime": 17439706,
+      "attempts": 553
+    },
+    "163": {
+      "allTime": 16040047,
+      "attempts": 562
+    },
+    "164": {
+      "allTime": 16382715,
+      "attempts": 603
+    },
+    "165": {
+      "allTime": 14827442,
+      "attempts": 588
+    },
+    "166": {
+      "allTime": 12622484,
+      "attempts": 550
+    },
+    "167": {
+      "allTime": 18143239,
+      "attempts": 570
+    },
+    "168": {
+      "allTime": 14096313,
+      "attempts": 547
+    },
+    "169": {
+      "allTime": 14016657,
+      "attempts": 553
+    },
+    "170": {
+      "allTime": 18375942,
+      "attempts": 538
+    },
+    "171": {
+      "allTime": 16065071,
+      "attempts": 599
+    },
+    "172": {
+      "allTime": 15599356,
+      "attempts": 562
+    },
+    "173": {
+      "allTime": 15396628,
+      "attempts": 551
+    },
+    "174": {
+      "allTime": 19774836,
+      "attempts": 577
+    },
+    "175": {
+      "allTime": 25525519,
+      "attempts": 565
+    },
+    "176": {
+      "allTime": 18758042,
+      "attempts": 636
+    },
+    "177": {
+      "allTime": 18140619,
+      "attempts": 583
+    },
+    "178": {
+      "allTime": 15669589,
+      "attempts": 564
+    },
+    "179": {
+      "allTime": 29483632,
+      "attempts": 633
+    },
+    "180": {
+      "allTime": 15332911,
+      "attempts": 585
+    },
+    "181": {
+      "allTime": 15426990,
+      "attempts": 581
+    },
+    "182": {
+      "allTime": 20076752,
+      "attempts": 573
+    },
+    "183": {
+      "allTime": 16062091,
+      "attempts": 567
+    },
+    "184": {
+      "allTime": 16044919,
+      "attempts": 523
+    },
+    "185": {
+      "allTime": 20606844,
+      "attempts": 586
+    },
+    "186": {
+      "allTime": 17575964,
+      "attempts": 586
+    },
+    "187": {
+      "allTime": 18913520,
+      "attempts": 564
+    },
+    "188": {
+      "allTime": 13597083,
+      "attempts": 524
+    },
+    "189": {
+      "allTime": 19309404,
+      "attempts": 590
+    },
+    "190": {
+      "allTime": 33344059,
+      "attempts": 573
+    },
+    "191": {
+      "allTime": 19388415,
+      "attempts": 562
+    },
+    "192": {
+      "allTime": 17175175,
+      "attempts": 561
+    },
+    "193": {
+      "allTime": 18233172,
+      "attempts": 597
+    },
+    "194": {
+      "allTime": 20068690,
+      "attempts": 595
+    },
+    "195": {
+      "allTime": 19876186,
+      "attempts": 565
+    },
+    "196": {
+      "allTime": 17368944,
+      "attempts": 567
+    },
+    "197": {
+      "allTime": 18567117,
+      "attempts": 548
+    },
+    "198": {
+      "allTime": 16407374,
+      "attempts": 576
+    },
+    "199": {
+      "allTime": 23551991,
+      "attempts": 581
+    },
+    "200": {
+      "allTime": 19533330,
+      "attempts": 591
+    },
+    "201": {
+      "allTime": 21213073,
+      "attempts": 540
+    },
+    "202": {
+      "allTime": 19795223,
+      "attempts": 578
+    },
+    "203": {
+      "allTime": 26923964,
+      "attempts": 561
+    },
+    "204": {
+      "allTime": 29642759,
+      "attempts": 571
+    },
+    "205": {
+      "allTime": 25256205,
+      "attempts": 564
+    },
+    "206": {
+      "allTime": 18565815,
+      "attempts": 560
+    },
+    "207": {
+      "allTime": 25735660,
+      "attempts": 596
+    },
+    "208": {
+      "allTime": 24611812,
+      "attempts": 571
+    },
+    "209": {
+      "allTime": 19915557,
+      "attempts": 576
+    },
+    "210": {
+      "allTime": 19915225,
+      "attempts": 576
+    },
+    "211": {
+      "allTime": 17665743,
+      "attempts": 555
+    },
+    "212": {
+      "allTime": 22394676,
+      "attempts": 595
+    },
+    "213": {
+      "allTime": 21595918,
+      "attempts": 571
+    },
+    "214": {
+      "allTime": 25797024,
+      "attempts": 597
+    },
+    "215": {
+      "allTime": 22535295,
+      "attempts": 567
+    },
+    "216": {
+      "allTime": 20277645,
+      "attempts": 545
+    },
+    "217": {
+      "allTime": 32354219,
+      "attempts": 564
+    },
+    "218": {
+      "allTime": 20621988,
+      "attempts": 569
+    },
+    "219": {
+      "allTime": 21038543,
+      "attempts": 546
+    },
+    "220": {
+      "allTime": 20945354,
+      "attempts": 578
+    },
+    "221": {
+      "allTime": 18505903,
+      "attempts": 526
+    },
+    "222": {
+      "allTime": 24266841,
+      "attempts": 568
+    },
+    "223": {
+      "allTime": 22889667,
+      "attempts": 595
+    },
+    "224": {
+      "allTime": 21078462,
+      "attempts": 545
+    },
+    "225": {
+      "allTime": 21430703,
+      "attempts": 578
+    },
+    "226": {
+      "allTime": 36103766,
+      "attempts": 577
+    },
+    "227": {
+      "allTime": 19682956,
+      "attempts": 559
+    },
+    "228": {
+      "allTime": 24417831,
+      "attempts": 590
+    },
+    "229": {
+      "allTime": 22653504,
+      "attempts": 594
+    },
+    "230": {
+      "allTime": 22163453,
+      "attempts": 592
+    },
+    "231": {
+      "allTime": 21637812,
+      "attempts": 566
+    },
+    "232": {
+      "allTime": 20633769,
+      "attempts": 537
+    },
+    "233": {
+      "allTime": 21045171,
+      "attempts": 523
+    },
+    "234": {
+      "allTime": 25582778,
+      "attempts": 582
+    },
+    "235": {
+      "allTime": 23819162,
+      "attempts": 576
+    },
+    "236": {
+      "allTime": 26437010,
+      "attempts": 572
+    },
+    "237": {
+      "allTime": 36138992,
+      "attempts": 552
+    },
+    "238": {
+      "allTime": 21994288,
+      "attempts": 545
+    },
+    "239": {
+      "allTime": 27234850,
+      "attempts": 555
+    },
+    "240": {
+      "allTime": 21711450,
+      "attempts": 564
+    },
+    "241": {
+      "allTime": 25257415,
+      "attempts": 572
+    },
+    "242": {
+      "allTime": 38516712,
+      "attempts": 598
+    },
+    "243": {
+      "allTime": 20621305,
+      "attempts": 531
+    },
+    "244": {
+      "allTime": 22962156,
+      "attempts": 572
+    },
+    "245": {
+      "allTime": 24325213,
+      "attempts": 572
+    },
+    "246": {
+      "allTime": 28132474,
+      "attempts": 575
+    },
+    "247": {
+      "allTime": 28611520,
+      "attempts": 589
+    },
+    "248": {
+      "allTime": 25368506,
+      "attempts": 573
+    },
+    "249": {
+      "allTime": 26621857,
+      "attempts": 542
+    },
+    "250": {
+      "allTime": 25156147,
+      "attempts": 576
+    },
+    "251": {
+      "allTime": 25441548,
+      "attempts": 592
+    },
+    "252": {
+      "allTime": 28256435,
+      "attempts": 560
+    },
+    "253": {
+      "allTime": 26359790,
+      "attempts": 576
+    },
+    "254": {
+      "allTime": 28126014,
+      "attempts": 591
+    },
+    "255": {
+      "allTime": 27185889,
+      "attempts": 580
+    },
+    "256": {
+      "allTime": 25173701,
+      "attempts": 554
+    },
+    "257": {
+      "allTime": 33495174,
+      "attempts": 578
+    },
+    "258": {
+      "allTime": 36253999,
+      "attempts": 522
+    },
+    "259": {
+      "allTime": 26499765,
+      "attempts": 567
+    },
+    "260": {
+      "allTime": 26920950,
+      "attempts": 579
+    },
+    "261": {
+      "allTime": 27391070,
+      "attempts": 586
+    },
+    "262": {
+      "allTime": 22997792,
+      "attempts": 618
+    },
+    "263": {
+      "allTime": 24966523,
+      "attempts": 552
+    },
+    "264": {
+      "allTime": 28584828,
+      "attempts": 578
+    },
+    "265": {
+      "allTime": 47988012,
+      "attempts": 595
+    },
+    "266": {
+      "allTime": 27497496,
+      "attempts": 585
+    },
+    "267": {
+      "allTime": 26717575,
+      "attempts": 572
+    },
+    "268": {
+      "allTime": 35853407,
+      "attempts": 581
+    },
+    "269": {
+      "allTime": 23731740,
+      "attempts": 523
+    },
+    "270": {
+      "allTime": 28181789,
+      "attempts": 589
+    },
+    "271": {
+      "allTime": 28544223,
+      "attempts": 571
+    },
+    "272": {
+      "allTime": 41602463,
+      "attempts": 561
+    },
+    "273": {
+      "allTime": 45590079,
+      "attempts": 603
+    },
+    "274": {
+      "allTime": 47667467,
+      "attempts": 566
+    },
+    "275": {
+      "allTime": 28850678,
+      "attempts": 531
+    },
+    "276": {
+      "allTime": 30431946,
+      "attempts": 550
+    },
+    "277": {
+      "allTime": 46232535,
+      "attempts": 532
+    },
+    "278": {
+      "allTime": 23928572,
+      "attempts": 551
+    },
+    "279": {
+      "allTime": 38229445,
+      "attempts": 607
+    },
+    "280": {
+      "allTime": 46782104,
+      "attempts": 570
+    },
+    "281": {
+      "allTime": 30867131,
+      "attempts": 577
+    },
+    "282": {
+      "allTime": 29191799,
+      "attempts": 567
+    },
+    "283": {
+      "allTime": 32171780,
+      "attempts": 566
+    },
+    "284": {
+      "allTime": 70169147,
+      "attempts": 570
+    },
+    "285": {
+      "allTime": 33490201,
+      "attempts": 587
+    },
+    "286": {
+      "allTime": 34606638,
+      "attempts": 578
+    },
+    "287": {
+      "allTime": 39703942,
+      "attempts": 569
+    },
+    "288": {
+      "allTime": 35188861,
+      "attempts": 538
+    },
+    "289": {
+      "allTime": 42044921,
+      "attempts": 571
+    },
+    "290": {
+      "allTime": 31283210,
+      "attempts": 544
+    },
+    "291": {
+      "allTime": 37701944,
+      "attempts": 569
+    },
+    "292": {
+      "allTime": 31237058,
+      "attempts": 568
+    },
+    "293": {
+      "allTime": 33913555,
+      "attempts": 544
+    },
+    "294": {
+      "allTime": 30913352,
+      "attempts": 595
+    },
+    "295": {
+      "allTime": 34179370,
+      "attempts": 569
+    },
+    "296": {
+      "allTime": 31619465,
+      "attempts": 521
+    },
+    "297": {
+      "allTime": 71687701,
+      "attempts": 581
+    },
+    "298": {
+      "allTime": 33022357,
+      "attempts": 558
+    },
+    "299": {
+      "allTime": 32522732,
+      "attempts": 570
+    },
+    "300": {
+      "allTime": 40060780,
+      "attempts": 561
+    },
+    "301": {
+      "allTime": 29219986,
+      "attempts": 570
+    },
+    "302": {
+      "allTime": 35409413,
+      "attempts": 605
+    },
+    "303": {
+      "allTime": 42508895,
+      "attempts": 589
+    },
+    "304": {
+      "allTime": 33403892,
+      "attempts": 577
+    },
+    "305": {
+      "allTime": 39494934,
+      "attempts": 551
+    },
+    "306": {
+      "allTime": 39215518,
+      "attempts": 533
+    },
+    "307": {
+      "allTime": 34137619,
+      "attempts": 553
+    },
+    "308": {
+      "allTime": 32668980,
+      "attempts": 608
+    },
+    "309": {
+      "allTime": 34669361,
+      "attempts": 562
+    },
+    "310": {
+      "allTime": 35676132,
+      "attempts": 560
+    },
+    "311": {
+      "allTime": 45866341,
+      "attempts": 549
+    },
+    "312": {
+      "allTime": 29644535,
+      "attempts": 564
+    },
+    "313": {
+      "allTime": 40625341,
+      "attempts": 618
+    },
+    "314": {
+      "allTime": 33599337,
+      "attempts": 533
+    },
+    "315": {
+      "allTime": 31154927,
+      "attempts": 542
+    },
+    "316": {
+      "allTime": 50452547,
+      "attempts": 565
+    },
+    "317": {
+      "allTime": 42139549,
+      "attempts": 596
+    },
+    "318": {
+      "allTime": 43660168,
+      "attempts": 590
+    },
+    "319": {
+      "allTime": 49609567,
+      "attempts": 547
+    },
+    "320": {
+      "allTime": 47681369,
+      "attempts": 598
+    },
+    "321": {
+      "allTime": 44700703,
+      "attempts": 564
+    },
+    "322": {
+      "allTime": 50614132,
+      "attempts": 608
+    },
+    "323": {
+      "allTime": 39724849,
+      "attempts": 562
+    },
+    "324": {
+      "allTime": 43972355,
+      "attempts": 588
+    },
+    "325": {
+      "allTime": 35143656,
+      "attempts": 548
+    },
+    "326": {
+      "allTime": 39868130,
+      "attempts": 583
+    },
+    "327": {
+      "allTime": 39807256,
+      "attempts": 571
+    },
+    "328": {
+      "allTime": 30493702,
+      "attempts": 560
+    },
+    "329": {
+      "allTime": 34953336,
+      "attempts": 546
+    },
+    "330": {
+      "allTime": 42557687,
+      "attempts": 628
+    },
+    "331": {
+      "allTime": 44957539,
+      "attempts": 565
+    },
+    "332": {
+      "allTime": 42998797,
+      "attempts": 550
+    },
+    "333": {
+      "allTime": 56808611,
+      "attempts": 606
+    },
+    "334": {
+      "allTime": 37346122,
+      "attempts": 574
+    },
+    "335": {
+      "allTime": 44926533,
+      "attempts": 555
+    },
+    "336": {
+      "allTime": 40796749,
+      "attempts": 530
+    },
+    "337": {
+      "allTime": 36618017,
+      "attempts": 585
+    },
+    "338": {
+      "allTime": 38733987,
+      "attempts": 558
+    },
+    "339": {
+      "allTime": 45235335,
+      "attempts": 572
+    },
+    "340": {
+      "allTime": 44722937,
+      "attempts": 553
+    },
+    "341": {
+      "allTime": 60808179,
+      "attempts": 587
+    },
+    "342": {
+      "allTime": 41646160,
+      "attempts": 598
+    },
+    "343": {
+      "allTime": 43554720,
+      "attempts": 619
+    },
+    "344": {
+      "allTime": 46126815,
+      "attempts": 560
+    },
+    "345": {
+      "allTime": 37077369,
+      "attempts": 546
+    },
+    "346": {
+      "allTime": 58595195,
+      "attempts": 609
+    },
+    "347": {
+      "allTime": 49862241,
+      "attempts": 575
+    },
+    "348": {
+      "allTime": 45523045,
+      "attempts": 601
+    },
+    "349": {
+      "allTime": 57521643,
+      "attempts": 546
+    },
+    "350": {
+      "allTime": 48058190,
+      "attempts": 556
+    },
+    "351": {
+      "allTime": 56746680,
+      "attempts": 579
+    },
+    "352": {
+      "allTime": 43663081,
+      "attempts": 572
+    },
+    "353": {
+      "allTime": 63850867,
+      "attempts": 593
+    },
+    "354": {
+      "allTime": 72592856,
+      "attempts": 621
+    },
+    "355": {
+      "allTime": 56882791,
+      "attempts": 581
+    },
+    "356": {
+      "allTime": 80347248,
+      "attempts": 614
+    },
+    "357": {
+      "allTime": 54820450,
+      "attempts": 586
+    },
+    "358": {
+      "allTime": 62106936,
+      "attempts": 605
+    },
+    "359": {
+      "allTime": 50214428,
+      "attempts": 604
+    },
+    "360": {
+      "allTime": 65962976,
+      "attempts": 572
+    },
+    "361": {
+      "allTime": 49036971,
+      "attempts": 612
+    },
+    "362": {
+      "allTime": 51528212,
+      "attempts": 560
+    },
+    "363": {
+      "allTime": 73844880,
+      "attempts": 579
+    },
+    "364": {
+      "allTime": 75389551,
+      "attempts": 589
+    },
+    "365": {
+      "allTime": 76823101,
+      "attempts": 588
+    },
+    "366": {
+      "allTime": 57542382,
+      "attempts": 571
+    },
+    "367": {
+      "allTime": 54463716,
+      "attempts": 536
+    },
+    "368": {
+      "allTime": 47088969,
+      "attempts": 585
+    },
+    "369": {
+      "allTime": 69281846,
+      "attempts": 576
+    },
+    "370": {
+      "allTime": 50943324,
+      "attempts": 595
+    },
+    "371": {
+      "allTime": 64819123,
+      "attempts": 564
+    },
+    "372": {
+      "allTime": 45318215,
+      "attempts": 543
+    },
+    "373": {
+      "allTime": 44336338,
+      "attempts": 543
+    },
+    "374": {
+      "allTime": 48470275,
+      "attempts": 548
+    },
+    "375": {
+      "allTime": 59161622,
+      "attempts": 549
+    },
+    "376": {
+      "allTime": 55280054,
+      "attempts": 571
+    },
+    "377": {
+      "allTime": 56355422,
+      "attempts": 588
+    },
+    "378": {
+      "allTime": 85914969,
+      "attempts": 574
+    },
+    "379": {
+      "allTime": 53727685,
+      "attempts": 525
+    },
+    "380": {
+      "allTime": 44636080,
+      "attempts": 580
+    },
+    "381": {
+      "allTime": 52917120,
+      "attempts": 518
+    },
+    "382": {
+      "allTime": 112078239,
+      "attempts": 545
+    },
+    "383": {
+      "allTime": 51340905,
+      "attempts": 598
+    },
+    "384": {
+      "allTime": 49569960,
+      "attempts": 551
+    },
+    "385": {
+      "allTime": 88385459,
+      "attempts": 581
+    },
+    "386": {
+      "allTime": 66094150,
+      "attempts": 622
+    },
+    "387": {
+      "allTime": 64364115,
+      "attempts": 599
+    },
+    "388": {
+      "allTime": 64034944,
+      "attempts": 564
+    },
+    "389": {
+      "allTime": 84923069,
+      "attempts": 593
+    },
+    "390": {
+      "allTime": 73504111,
+      "attempts": 583
+    },
+    "391": {
+      "allTime": 58969107,
+      "attempts": 573
+    },
+    "392": {
+      "allTime": 93169017,
+      "attempts": 570
+    },
+    "393": {
+      "allTime": 99435058,
+      "attempts": 570
+    },
+    "394": {
+      "allTime": 111068348,
+      "attempts": 546
+    },
+    "395": {
+      "allTime": 57177558,
+      "attempts": 557
+    },
+    "396": {
+      "allTime": 88658828,
+      "attempts": 547
+    },
+    "397": {
+      "allTime": 87176384,
+      "attempts": 544
+    },
+    "398": {
+      "allTime": 108544540,
+      "attempts": 595
+    },
+    "399": {
+      "allTime": 62372439,
+      "attempts": 582
+    },
+    "400": {
+      "allTime": 73983468,
+      "attempts": 543
+    },
+    "401": {
+      "allTime": 47081612,
+      "attempts": 554
+    },
+    "402": {
+      "allTime": 55980859,
+      "attempts": 566
+    },
+    "403": {
+      "allTime": 69999852,
+      "attempts": 589
+    },
+    "404": {
+      "allTime": 58199194,
+      "attempts": 551
+    },
+    "405": {
+      "allTime": 135384538,
+      "attempts": 517
+    },
+    "406": {
+      "allTime": 49428486,
+      "attempts": 580
+    },
+    "407": {
+      "allTime": 143681640,
+      "attempts": 558
+    },
+    "408": {
+      "allTime": 71194027,
+      "attempts": 550
+    },
+    "409": {
+      "allTime": 118627619,
+      "attempts": 542
+    },
+    "410": {
+      "allTime": 69264496,
+      "attempts": 550
+    },
+    "411": {
+      "allTime": 58137113,
+      "attempts": 539
+    },
+    "412": {
+      "allTime": 97667074,
+      "attempts": 586
+    },
+    "413": {
+      "allTime": 116595324,
+      "attempts": 579
+    },
+    "414": {
+      "allTime": 85550759,
+      "attempts": 563
+    },
+    "415": {
+      "allTime": 141083972,
+      "attempts": 577
+    },
+    "416": {
+      "allTime": 141428555,
+      "attempts": 562
+    },
+    "417": {
+      "allTime": 71477452,
+      "attempts": 569
+    },
+    "418": {
+      "allTime": 141275919,
+      "attempts": 587
+    },
+    "419": {
+      "allTime": 145624328,
+      "attempts": 553
+    },
+    "420": {
+      "allTime": 112803745,
+      "attempts": 556
+    },
+    "421": {
+      "allTime": 115445728,
+      "attempts": 561
+    },
+    "422": {
+      "allTime": 237622186,
+      "attempts": 572
+    },
+    "423": {
+      "allTime": 166916000,
+      "attempts": 609
+    },
+    "424": {
+      "allTime": 136531241,
+      "attempts": 600
+    },
+    "425": {
+      "allTime": 88197889,
+      "attempts": 569
+    },
+    "426": {
+      "allTime": 121863316,
+      "attempts": 586
+    },
+    "427": {
+      "allTime": 150975291,
+      "attempts": 533
+    },
+    "428": {
+      "allTime": 279646922,
+      "attempts": 562
+    },
+    "429": {
+      "allTime": 195886247,
+      "attempts": 529
+    },
+    "430": {
+      "allTime": 161259636,
+      "attempts": 589
+    },
+    "431": {
+      "allTime": 155986397,
+      "attempts": 556
+    },
+    "432": {
+      "allTime": 88436892,
+      "attempts": 578
+    },
+    "433": {
+      "allTime": 69214379,
+      "attempts": 578
+    },
+    "434": {
+      "allTime": 130185821,
+      "attempts": 585
+    },
+    "435": {
+      "allTime": 144268634,
+      "attempts": 564
+    },
+    "436": {
+      "allTime": 69254210,
+      "attempts": 608
+    },
+    "437": {
+      "allTime": 167351777,
+      "attempts": 566
+    },
+    "438": {
+      "allTime": 217167131,
+      "attempts": 562
+    },
+    "439": {
+      "allTime": 215002265,
+      "attempts": 549
+    },
+    "440": {
+      "allTime": 139410622,
+      "attempts": 580
+    },
+    "441": {
+      "allTime": 137133839,
+      "attempts": 551
+    },
+    "442": {
+      "allTime": 326853821,
+      "attempts": 566
+    },
+    "443": {
+      "allTime": 202900282,
+      "attempts": 572
+    },
+    "444": {
+      "allTime": 183537624,
+      "attempts": 555
+    },
+    "445": {
+      "allTime": 228108340,
+      "attempts": 572
+    },
+    "446": {
+      "allTime": 495650645,
+      "attempts": 554
+    },
+    "447": {
+      "allTime": 216623321,
+      "attempts": 571
+    },
+    "448": {
+      "allTime": 745493768,
+      "attempts": 605
+    },
+    "449": {
+      "allTime": 135955654,
+      "attempts": 570
+    },
+    "450": {
+      "allTime": 218956589,
+      "attempts": 634
+    },
+    "451": {
+      "allTime": 140769210,
+      "attempts": 592
+    },
+    "452": {
+      "allTime": 299946268,
+      "attempts": 565
+    },
+    "453": {
+      "allTime": 602757563,
+      "attempts": 581
+    },
+    "454": {
+      "allTime": 291794674,
+      "attempts": 542
+    },
+    "455": {
+      "allTime": 452019096,
+      "attempts": 587
+    },
+    "456": {
+      "allTime": 849503588,
+      "attempts": 534
+    },
+    "457": {
+      "allTime": 820220644,
+      "attempts": 615
+    },
+    "458": {
+      "allTime": 346553934,
+      "attempts": 557
+    },
+    "459": {
+      "allTime": 174002109,
+      "attempts": 606
+    },
+    "460": {
+      "allTime": 726625837,
+      "attempts": 584
+    },
+    "461": {
+      "allTime": 195310341,
+      "attempts": 599
+    },
+    "462": {
+      "allTime": 171366173,
+      "attempts": 582
+    },
+    "463": {
+      "allTime": 212361128,
+      "attempts": 553
+    },
+    "464": {
+      "allTime": 342201861,
+      "attempts": 570
+    },
+    "465": {
+      "allTime": 429026709,
+      "attempts": 603
+    },
+    "466": {
+      "allTime": 217378210,
+      "attempts": 578
+    },
+    "467": {
+      "allTime": 426151640,
+      "attempts": 612
+    },
+    "468": {
+      "allTime": 680254621,
+      "attempts": 534
+    },
+    "469": {
+      "allTime": 1419804262,
+      "attempts": 514
+    },
+    "470": {
+      "allTime": 412845476,
+      "attempts": 559
+    },
+    "471": {
+      "allTime": 475582568,
+      "attempts": 553
+    },
+    "472": {
+      "allTime": 606559355,
+      "attempts": 596
+    },
+    "473": {
+      "allTime": 961398958,
+      "attempts": 548
+    },
+    "474": {
+      "allTime": 1061109583,
+      "attempts": 531
+    },
+    "475": {
+      "allTime": 1097696476,
+      "attempts": 552
+    },
+    "476": {
+      "allTime": 209738658,
+      "attempts": 602
+    },
+    "477": {
+      "allTime": 969411861,
+      "attempts": 588
+    },
+    "478": {
+      "allTime": 1411048563,
+      "attempts": 609
+    },
+    "479": {
+      "allTime": 377748601,
+      "attempts": 549
+    },
+    "480": {
+      "allTime": 853441514,
+      "attempts": 558
+    },
+    "481": {
+      "allTime": 654715179,
+      "attempts": 580
+    },
+    "482": {
+      "allTime": 231603362,
+      "attempts": 578
+    },
+    "483": {
+      "allTime": 474452337,
+      "attempts": 561
+    },
+    "484": {
+      "allTime": 1513675609,
+      "attempts": 548
+    },
+    "485": {
+      "allTime": 482197967,
+      "attempts": 547
+    },
+    "486": {
+      "allTime": 589311495,
+      "attempts": 607
+    },
+    "487": {
+      "allTime": 459656596,
+      "attempts": 613
+    },
+    "488": {
+      "allTime": 546946311,
+      "attempts": 591
+    },
+    "489": {
+      "allTime": 1333598357,
+      "attempts": 604
+    },
+    "490": {
+      "allTime": 636865645,
+      "attempts": 576
+    },
+    "491": {
+      "allTime": 1412777098,
+      "attempts": 569
+    },
+    "492": {
+      "allTime": 733449475,
+      "attempts": 539
+    },
+    "493": {
+      "allTime": 832695256,
+      "attempts": 569
+    },
+    "494": {
+      "allTime": 432853624,
+      "attempts": 549
+    },
+    "495": {
+      "allTime": 1417025614,
+      "attempts": 590
+    },
+    "496": {
+      "allTime": 451444105,
+      "attempts": 543
+    },
+    "497": {
+      "allTime": 981084735,
+      "attempts": 546
+    },
+    "498": {
+      "allTime": 1078766088,
+      "attempts": 536
+    },
+    "499": {
+      "allTime": 422713944,
+      "attempts": 584
+    }
+  }
+}
