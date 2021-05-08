@@ -1,0 +1,22 @@
+:host {
+  display: block;
+  width: 100vw;
+  height: 65vh;
+  font-family: Questrial, sans-serif;
+}
+
+h2 {
+  padding-top: 20vh;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+h4 {
+  width: 100%;
+  text-align: center;
+  padding-top: 3vh;
+  data-aos: "fade-up";
+  data-aos-duration: "1500";
+  data-aos-once: "true";
+}

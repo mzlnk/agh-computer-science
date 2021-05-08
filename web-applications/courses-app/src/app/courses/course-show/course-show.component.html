@@ -1,0 +1,15 @@
+<img [src]="course?.url" alt="img" />
+<h2>{{course?.name}}</h2>
+<h4>{{course?.description}}</h4>
+
+<p>Liczba ECTS: {{course?.ects}}</p>
+<p>Semestr: {{course?.semester}}</p>
+<p>Rodzaj kursu: {{course?.courseType}}</p>
+<p>Uczestnicy: {{course?.attendees}} / {{course?.attendeesLimit}}</p>
+<p>Ocena: {{rating}} / 10</p>
+<div>
+  <p *ngIf="isCourseRated()" class="info">You have already rated this course</p>
+  <p *ngIf="!isCourseJoined() && isCourseAchievedAttendeeLimit()" class="info">Reached attendees limit!</p>
+  <star-rating *ngIf="isCourseJoined() && !isCourseRated()" value="5" totalstars="10" checkedcolor="#42bff5" uncheckedcolor="#e3f7ff" size="24px" readonly="false" (rate)="onRate($event)"></star-rating>
+  <button *ngIf="!isCourseJoined() && !isCourseAchievedAttendeeLimit()" type="button" (click)="joinCourse()">Join course</button>
+</div>

@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "name": "Course 1",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c2",
+      "name": "Course 2",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c3",
+      "name": "Course 3",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c4",
+      "name": "Course 4",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c5",
+      "name": "Course 5",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c6",
+      "name": "Course 6",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c7",
+      "name": "Course 7",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c8",
+      "name": "Course 8",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c9",
+      "name": "Course 9",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    },
+    {
+      "id": "c10",
+      "name": "Course 10",
+      "description": "Sample Description",
+      "url": "https://agh.mzlnk.pl/wdai/assets/book.png",
+      "ects": 3,
+      "semester": 4,
+      "courseType": "Lecture",
+      "attendeesLimit": 80,
+      "attendees": 0,
+      "rating": 3
+    }
+  ]
+}

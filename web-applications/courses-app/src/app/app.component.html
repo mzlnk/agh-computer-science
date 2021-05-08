@@ -1,0 +1,12 @@
+<a class="title" data-aos="fade-down" data-aos-duration="1500" data-aos-once="true" routerLink="" >Course Master</a>
+<div class="details-options row pd-0 mg-0">
+  <div *ngIf="canSearchCourses()" class="col"><a routerLink="courses">Search courses</a></div>
+  <div *ngIf="canEditCourses()" class="col"><a routerLink="courses/add">Add course</a></div>
+  <div *ngIf="isUserSignedIn()" class="col"><a (click)="signOut()">Sign out ({{username}})</a></div>
+  <div *ngIf="!isUserSignedIn()" class="col"><a routerLink="sign-in">Sign in</a></div>
+  <div *ngIf="!isUserSignedIn()" class="col"><a routerLink="sign-up">Sign up</a></div>
+</div>
+<router-outlet></router-outlet>
+<footer>
+  <a href="https://github.com/mzlnk">dev by Marcin Zielonka 2019</a>
+</footer>

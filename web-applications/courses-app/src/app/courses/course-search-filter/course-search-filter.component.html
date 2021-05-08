@@ -1,0 +1,39 @@
+<input class="name-input-filter" type="text" placeholder="nazwa kursu" ngModel (ngModelChange)="changeName($event)">
+<div class="row">
+  <div class="col-lg-4 text-center button-group">
+    <button type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown">
+      <span>rating</span>
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li *ngFor="let rating of ratings">
+        <label>
+          <input type="checkbox" class="dropdown-checkbox" ngModel (ngModelChange)="checkRating(rating, $event)"/>
+        </label>&nbsp;{{rating}} &#9733;</li>
+    </ul>
+  </div>
+  <div class="col-lg-4 text-center button-group">
+    <button type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown">
+      <span>semester</span>
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li *ngFor="let semester of semesters">
+        <label>
+          <input type="checkbox" class="dropdown-checkbox" ngModel (ngModelChange)="checkSemester(semester, $event)"/>
+        </label>&nbsp;semester {{semester}}</li>
+    </ul>
+  </div>
+  <div class="col-lg-4 text-center button-group">
+    <button type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown">
+      <span>ECTS</span>
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li *ngFor="let e of ects">
+        <label>
+          <input type="checkbox" class="dropdown-checkbox" ngModel (ngModelChange)="checkEcts(e, $event)"/>
+        </label>&nbsp;{{e}} ECTS</li>
+    </ul>
+  </div>
+</div>

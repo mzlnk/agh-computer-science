@@ -1,0 +1,16 @@
+<h2>Add course</h2>
+<form [formGroup]="addCourseForm" (ngSubmit)="onCourseAdd(addCourseForm.value)">
+  <input type="text" formControlName="courseName" required placeholder="name">
+  <textarea rows="6" formControlName="courseDescription" required placeholder="description"></textarea>
+  <input type="url" formControlName="photoUrl" required pattern="https?://.+" placeholder="photo">
+  <input type="number" min="0" max="10" formControlName="courseEcts" required placeholder="ECTS points">
+  <input type="number" min="1" max="11" formControlName="courseSemester" required placeholder="semester">
+  <input type="number" min="1" max="100" formControlName="courseAttendeesLimit" required placeholder="attendees limit">
+  <select formControlName="courseType" class="form-control" id="sel1">
+    <option>Lecture</option>
+    <option>Practicals</option>
+    <option>Lab</option>
+    <option>Project</option>
+  </select>
+  <button type="submit">Add course</button>
+</form>

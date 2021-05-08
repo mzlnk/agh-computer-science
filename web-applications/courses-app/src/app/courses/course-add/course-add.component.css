@@ -1,0 +1,45 @@
+:host {
+  display: block;
+  width: 90%;
+  max-width: 1200px;
+  font-family: Questrial, serif;
+  margin: 0 auto;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin: 0 auto 20px;
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  resize: none;
+  margin: 0 auto 20px;
+}
+
+select {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  border: solid 1px #a8a8a8;
+  border-radius: 0;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+}
+
+textarea:required:invalid, input:required:invalid {
+  border: 2px solid rgba(255, 91, 67, 0.58);
+}
