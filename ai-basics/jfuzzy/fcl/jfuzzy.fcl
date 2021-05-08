@@ -1,0 +1,71 @@
+FUNCTION_BLOCK
+
+VAR_INPUT
+nachylenie_dachu: REAL;
+kierunek_nachylenia_dachu: REAL;
+zacienienie: REAL;
+dzien_roku: REAL;
+END_VAR
+
+VAR_OUTPUT
+przewidywana_efektywnosc: REAL;
+END_VAR
+
+FUZZIFY nachylenie_dachu
+TERM plaski := (0, 1) (5, 1) (7.5, 0.5) (10, 0);
+TERM prawie_plaski := (5, 0) (7.5, 0.5) (10, 1) (25, 1) (27.5, 0.5) (30, 0);
+TERM normalnie_nachylony := (20, 0) (25, 0.5) (30, 1) (35, 1) (37.5, 0.5) (40, 0);
+TERM bardzo_nachylony := (35, 0) (37.5, 0.5) (40, 1) (45, 1);
+END_FUZZIFY
+
+FUZZIFY kierunek_nachylenia_dachu
+TERM polnoc := (0, 1) (45, 0.5) (90, 0) (270, 0) (315, 0.5) (360, 1);
+TERM wschod := (0, 0) (45, 0.5) (90, 1) (135, 0.5) (180, 0);
+TERM poludnie := (90, 0) (135, 0.5) (180, 1) (225, 0.5) (270, 0);
+TERM zachod := (180, 0) (225, 0.5) (270, 1) (315, 0.5) (360, 0);
+END_FUZZIFY
+
+FUZZIFY zacienienie
+TERM brak_cienia := (0, 1) (5, 0.5) (10, 0);
+TERM troche_cienia := (5, 0) (12.5, 0.5) (20, 1) (30, 1) (32.5, 0.5) (35, 0);
+TERM umiarkowana_ilosc_cienia := (25, 0) (35, 0.5) (45, 1) (60, 1) (62.5, 0.5) (65, 0);
+TERM duzo_cienia := (55, 0) (65, 0.5) (75, 1);
+END_FUZZIFY
+
+FUZZIFY dzien_roku
+TERM zima := (0, 1) (79, 1) (84, 0.5) (89, 0) (345, 0) (355, 0.5) (365, 1);
+TERM wiosna := (69, 0) (79, 0.5) (89, 1) (172, 1) (177, 0.5) (182, 0);
+TERM lato := (162, 0) (172, 0.5) (182, 1) (265, 1) (269, 0.5) (273, 0);
+TERM jesien := (255, 0) (264, 0.5) (273, 1) (355, 1) (360, 0.5) (365, 0);
+END_FUZZIFY
+
+DEFUZZIFY przewidywana_efektywnosc
+TERM bardzo_niska := (0, 1) (1, 1) (1.5, 0.5) (2, 0);
+TERM niska := (1, 0) (1.5, 0.5) (2, 1) (3, 1) (3.5, 0.5) (4, 0);
+TERM ponizej_przecietnej := (3, 0) (3.5, 0.5) (4, 1) (5, 1) (5.5, 0.5) (6, 0);
+TERM przecietna := (5, 0) (5.5, 0.5) (6, 1) (7, 1) (7.5, 0.5) (8, 0);
+TERM powyzej_przecietnej := (7, 0) (7.5, 0.5) (8, 1) (9, 1) (9.5, 0.5) (10, 0);
+TERM wysoka := (9, 0) (9.5, 0.5) (10, 1) (11, 1) (11.5, 0.5) (12, 0);
+TERM bardzo_wysoka := (11, 0) (11.5, 0.5) (12, 1) (15, 1);
+METHOD: COG;
+DEFAULT :=  7.5;
+END_DEFUZZIFY
+
+RULEBLOCK first
+    ACT: MIN;
+
+    RULE 0: IF nachylenie_dachu is plaski THEN przewidywana_efektywnosc IS ponizej_przecietnej;
+    RULE 1: IF NOT (nachylenie_dachu IS plaski) AND kierunek_nachylenia_dachu IS poludnie THEN przewidywana_efektywnosc IS wysoka;
+    RULE 2: IF NOT (nachylenie_dachu IS plaski) AND kierunek_nachylenia_dachu IS polnoc THEN przewidywana_efektywnosc IS niska;
+    RULE 3: IF NOT (nachylenie_dachu IS plaski) AND (kierunek_nachylenia_dachu IS wschod OR kierunek_nachylenia_dachu IS zachod) THEN przewidywana_efektywnosc IS przecietna;
+    RULE 4: IF nachylenie_dachu IS bardzo_nachylony AND kierunek_nachylenia_dachu IS poludnie THEN przewidywana_efektywnosc IS bardzo_wysoka;
+    RULE 5: IF zacienienie IS brak_cienia THEN przewidywana_efektywnosc IS wysoka;
+    RULE 6: IF zacienienie IS troche_cienia THEN przewidywana_efektywnosc IS powyzej_przecietnej;
+    RULE 7: IF zacienienie IS umiarkowana_ilosc_cienia THEN przewidywana_efektywnosc IS ponizej_przecietnej;
+    RULE 8: IF zacienienie IS duzo_cienia THEN przewidywana_efektywnosc IS bardzo_niska;
+    RULE 9: IF dzien_roku IS lato THEN przewidywana_efektywnosc IS bardzo_wysoka;
+    RULE 10: IF dzien_roku IS wiosna OR dzien_roku IS jesien THEN przewidywana_efektywnosc IS przecietna;
+    RULE 11: IF dzien_roku IS zima THEN przewidywana_efektywnosc IS bardzo_niska;
+END_RULEBLOCK
+
+END_FUNCTION_BLOCK
