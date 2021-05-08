@@ -1,0 +1,24 @@
+[
+  {
+    "name"              : "node-app",
+    "script"            : "app.js",
+    "log_date_format"   : "YYYY-MM-DD HH:mm Z",
+    "merge_logs"        : false,
+    "watch"             : false,
+    "max_restarts"      : 10,
+    "exec_interpreter"  : "node",
+    "exec_mode"         : "fork_mode",
+    "env":
+    {
+      "NODE_ENV"        : "production",
+      "RPC_HOST"        : "172.24.0.89",
+      "RPC_PORT"        : "8545",
+      "LISTENING_PORT"  : "30303",
+      "INSTANCE_NAME"   : "Geth/v1.9.25-stable-e7872729/linux-amd64/go1.15.6",
+      "CONTACT_DETAILS" : "",
+      "WS_SERVER"       : "http://localhost:3000",
+      "WS_SECRET"       : "secretsecret",
+      "VERBOSITY"       : 2
+    }
+  }
+]

@@ -1,0 +1,45 @@
+version: "3.0"
+services:
+  geth-node-network:
+    container_name: geth-node-network
+    image: geth-node-network:latest
+    ports:
+      - "127.0.0.1:8545:8545"
+      - "172.17.0.1:8545:8545"
+      - "172.17.0.1:8546:8546"
+      - "172.17.0.1:30403:30403"
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./configs/geth-node-network/genesis.json:/opt/geth/utils/genesis.json
+      - ./configs/geth-node-network/boot.key:/opt/geth/nodes/bootnode/boot.key
+    networks:
+      netstat-network:
+        ipv4_address: 172.24.0.89
+    environment:
+      - NODES_COUNT=3
+      - RPC_PORT_FIRST=8545
+      - HOST_PORT_FIRST=30403
+      - NETWORK_ID=150
+      - ENODE=enode://04b1e431acbd969eded9e4d67467f03a86bb9710cee7c034e85021d3f1f5f8c9f2a2569cbfdae1c0447e264f8d9fb0b04dfb6b07dbfb8c2ca389ec7910a573ef@127.0.0.1:0?discport=5000
+  netstat:
+    container_name: netstat
+    image: netstat:latest
+    depends_on:
+      - geth-node-network
+    ports:
+      - "3000:3000"
+      - "30303:30303"
+      - "30303:30303/udp"
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./configs/netstat/app.json:/home/ethnetintel/eth-net-intelligence-api/app.json
+    networks:
+      netstat-network:
+        ipv4_address: 172.24.0.90
+networks:
+  netstat-network:
+    ipam:
+      config:
+        - subnet: 172.24.0.0/24
