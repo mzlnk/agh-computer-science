@@ -1,0 +1,18 @@
+{
+  "evolutions":[
+    {
+      "id": "f1b2daea-f2f1-4c47-b2f8-f79c373443b9",
+      "name": "Built-in evolution",
+      "worldType": "DESERT",
+      "mapSize": 50,
+      "jungleSize": 20,
+      "lifetime": 1000000,
+      "currentDay": 0,
+      "maxAnimalEnergy": 1000,
+      "lethalAnimalEnergy": 3000,
+      "animalInitEnergy": 200,
+      "grassInitEnergy": 10,
+      "animalInitAmount": 10
+    }
+  ]
+}

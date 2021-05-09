@@ -1,0 +1,133 @@
+:host {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  overflow: hidden;
+}
+
+:host > div {
+  height: 90%;
+  width: 100%;
+}
+
+.btn-back {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  width: 50px;
+  height: 50px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.btn-back:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.details-options {
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.details-options > div {
+  text-align: center;
+}
+
+.details-options a {
+  font-family: Questrial, sans-serif;
+  font-size: 1.4rem;
+  text-decoration: none;
+  color: black;
+  transition: text-shadow 0.2s ease-in-out;
+}
+
+.details-options a:hover {
+  text-shadow: 0px 0px 5px #8E8E8E;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  position: absolute;
+  bottom: 15px;
+}
+
+footer > a {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+  font-family: Questrial, sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 992px) {
+  .details-col {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1500px) {
+  .details-options {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .details-options {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 991px) {
+
+  :host {
+    overflow-y: scroll;
+    height: auto;
+  }
+
+  :host > div {
+    padding-top: 100px;
+    height: 100%;
+  }
+
+  .btn-back {
+    top: 15px;
+    left: 25px;
+  }
+
+  .details-col {
+    padding-top: 50px;
+  }
+
+  .details-options {
+    padding-top: 0;
+  }
+
+  footer {
+    position: relative;
+    padding-top: 50px;
+  }
+
+}
+
+@media screen and (max-width: 767px) {
+  .details-options {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .details-options {
+    width: 90%;
+  }
+}

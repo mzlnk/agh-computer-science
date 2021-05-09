@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1a1a1a"
+    android:orientation="vertical"
+    tools:context=".ui.fragment.gamesetup.GameSetupMapExampleFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:gravity="center">
+
+        <RelativeLayout
+            android:id="@+id/f_game_setup_map_example_layout_grid"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:background="@drawable/d_map_border" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/f_game_setup_map_example_text_map_name"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:text="[map name]"
+        android:gravity="center" />
+
+
+</LinearLayout>

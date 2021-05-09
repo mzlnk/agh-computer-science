@@ -1,0 +1,11 @@
+Konfiguracja sprzętowa:
+Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz (2 rdzenie, 4 wątki)
+
+Dane:
+ilość osób: 1000
+ilość paczkomatów: 10000
+
+Czas obliczeń:
+wersja sekwencyjna: 5.493537 s
+wersja bardzo równoległa: 4.267115 s
+wersja mniej równoległa: 2.910086 s

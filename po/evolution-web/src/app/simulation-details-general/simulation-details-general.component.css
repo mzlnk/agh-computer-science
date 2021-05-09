@@ -1,0 +1,35 @@
+:host {
+  display: block;
+  width: 100%;
+}
+
+.table-container {
+  display: block;
+  overflow-x: auto;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+@media screen and (min-width: 992px) {
+  :host {
+    flex-grow: 1;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  :host {
+    min-height: 400px;
+  }
+
+  .table-container {
+    width: 95%;
+  }
+}

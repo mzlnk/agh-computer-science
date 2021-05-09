@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#1a1a1a"
+    android:orientation="vertical"
+    tools:context=".ui.fragment.gamesetup.GameSetupMapFragment"
+    android:id="@+id/f_game_setup_map_layout_main" >
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/f_game_setup_map_pager_maps"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/f_game_setup_map_submit"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:text="choose map"
+            android:textColor="#ffffff"
+            android:background="@drawable/d_map_border" />
+
+    </RelativeLayout>
+
+</LinearLayout>

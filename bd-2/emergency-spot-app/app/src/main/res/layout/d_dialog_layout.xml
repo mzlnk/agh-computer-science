@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_anchorGravity="end"
+    android:background="@drawable/d_dialog_bg"
+    android:id="@+id/d_dialog_layout_container">
+
+    <Button
+        android:id="@+id/d_dialog_layout_btn_close"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_gravity="end"
+        android:layout_margin="10dp"
+        android:background="@drawable/d_btn_close" />
+
+
+</FrameLayout>

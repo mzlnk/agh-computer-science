@@ -1,0 +1,8 @@
+/.idea
+/out
+
+*.iml
+*.beam
+
+# extra files for module: pollution:
+/src/pollution/pollution-raport.txt

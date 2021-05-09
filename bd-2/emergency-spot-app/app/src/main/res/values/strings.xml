@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">EmergencySpot</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="animation_tag">animation_tag</string>
+
+    <string name="empty"> </string>
+
+    <string name="menu_add_patient">add patient</string>
+    <string name="menu_hospitals">hospitals</string>
+    <string name="menu_map">map</string>
+    <string name="menu_hospital_stay">stays</string>
+    <string name="menu_profile">profile</string>
+
+    <string name="title_label_hospitals">Szpitale</string>
+    <string name="title_label_hospital_wards">Oddziały szpitalne</string>
+    <string name="title_label_hospital_stays">Pobyty w szpitalu</string>
+    <string name="title_label_hospital_details">Szczegółowe informacje</string>
+    <string name="title_label_hospital_ward_details">Szczegółowe informacje</string>
+    <string name="title_label_hospital_stay_details">Szczegółowe informacje</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

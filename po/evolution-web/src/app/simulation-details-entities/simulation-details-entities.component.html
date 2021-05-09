@@ -1,0 +1,24 @@
+<div class="table-container">
+  <table class="table table-fixed">
+    <thead>
+    <tr class="text-center">
+      <th class="w-6">no.</th>
+      <th class="w-10">age</th>
+      <th class="w-6">gen</th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-0.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-1.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-2.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-3.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-4.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-5.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-6.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-7"><img src="../../assets/pictures/animal-genes/gene-7.svg" style="width: 25px; height: 25px"/></th>
+      <th class="w-22">energy</th>
+    </tr>
+    </thead>
+    <tbody class="text-center">
+      <ng-template entity-host></ng-template>
+      <td *ngIf="more" colspan="12" class="otherCountInfo">(+ {{otherCount}} left)</td>
+    </tbody>
+  </table>
+</div>

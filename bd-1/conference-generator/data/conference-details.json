@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Konferencja Java",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja C++",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja C",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja C#",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja R",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Haskell",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Python",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja HTML",
+    "description": "Konferencja z WWW"
+  },
+  {
+    "name": "Konferencja CSS",
+    "description": "Konferencja z WWW"
+  },
+  {
+    "name": "Konferencja JavaScript",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Angular",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja React",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja React Native",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Spring Boot",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja MongoDB",
+    "description": "Konferencja z baz danych"
+  },
+  {
+    "name": "Konferencja MySQL",
+    "description": "Konferencja z baz danych"
+  },
+  {
+    "name": "Konferencja MS SQL Server",
+    "description": "Konferencja z baz danych"
+  },
+  {
+    "name": "Konferencja TypeScript",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Julia",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Erlang",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Elixir",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja JUnit 5",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Android",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Swift",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Kotlin",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Assembler",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Fortran",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja .NET",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Go",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Groovy",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Ruby",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Objective-C",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Pascal",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Delphi",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja MATLAB",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Visual Basic",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja MS Office Word",
+    "description": "Konferencja z produktow MS Office"
+  },
+  {
+    "name": "Konferencja MS Office Excel ",
+    "description": "Konferencja z produktow MS Office"
+  },
+  {
+    "name": "Konferencja MS Office PowerPoint",
+    "description": "Konferencja z produktow MS Office"
+  },
+  {
+    "name": "Konferencja MS Office Access",
+    "description": "Konferencja z produktow MS Office"
+  },
+  {
+    "name": "Konferencja MS Office Outlook",
+    "description": "Konferencja z produktow MS Office"
+  },
+  {
+    "name": "Konferencja PHP",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Perl",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Maven",
+    "description": "Konferencja z programowania"
+  },
+  {
+    "name": "Konferencja Gradle",
+    "description": "Konferencja z programowania"
+  }
+]

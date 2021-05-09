@@ -1,0 +1,39 @@
+:host {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  overflow: hidden;
+}
+
+.title {
+  padding-top: 10vh;
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Questrial', sans-serif;
+}
+
+app-home-simulation-list {
+  margin: 45px auto 0;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  position: absolute;
+  bottom: 15px;
+}
+
+footer > a {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+  font-family: Questrial, sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}

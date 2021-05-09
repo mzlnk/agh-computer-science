@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="pl.mzlnk.colorsquares">
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:name=".ColorSquaresApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Color Squares"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".ui.activity.StartActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="Color Squares"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:label="Color Squares"
+            android:theme="@style/FullscreenTheme">
+        </activity>
+
+    </application>
+
+</manifest>

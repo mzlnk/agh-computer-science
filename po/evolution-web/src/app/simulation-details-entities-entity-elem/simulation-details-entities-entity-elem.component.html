@@ -1,0 +1,9 @@
+<td>{{numId}}</td>
+<td>{{age}}</td>
+<td>{{generation}}</td>
+<td *ngFor="let gene of genes">{{gene}}</td>
+<td>
+  <div class="progress">
+    <div class="progress-bar" [ngStyle]="{'width': energy * 100 + '%'}"></div>
+  </div>
+</td>
