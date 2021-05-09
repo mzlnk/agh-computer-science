@@ -1,0 +1,21 @@
+
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET     /hospitals                 controllers.HospitalController.findAll(name: Option[String], longitude: Option[Double], latitude: Option[Double], country: Option[String], city: Option[String], wards: Option[List[String]])
+GET     /hospitals/:id             controllers.HospitalController.findById(id: Long)
+GET     /hospitals/:id/wards       controllers.HospitalController.findHospitalWards(id: Long)
+GET     /reviews                   controllers.HospitalReviewController.findAll(min_rating: Option[Double], max_rating: Option[Double], hospital: Option[Long])
+GET     /reviews/:id               controllers.HospitalReviewController.findOne(id: Long)
+POST    /reviews                   controllers.HospitalReviewController.create()
+PUT     /reviews                   controllers.HospitalReviewController.update()
+GET     /stays                     controllers.HospitalStayController.findAll(date_from: Option[String], date_to: Option[String], patient: Option[Long])
+GET     /stays/:id                 controllers.HospitalStayController.findOne(id: Long)
+POST    /stays                     controllers.HospitalStayController.create()
+GET     /wards                     controllers.HospitalWardController.findAll(wards: Option[List[String]], min_capacity: Option[Long], max_capacity: Option[Long], hospital: Option[Long])
+GET     /wards/:id                 controllers.HospitalWardController.findOne(id: Long)
+POST    /user/signin               controllers.UserController.signIn()
+POST    /user/signup               controllers.UserController.signUp()
+GET     /user/:username            controllers.UserController.findByUsername(username: String)
